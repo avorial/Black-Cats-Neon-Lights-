@@ -22,6 +22,32 @@
     "keyLinks": []
   },
   {
+    "id": "7:Herman-Wentworth",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "Herman-Wentworth",
+    "title": "Herman Wentworth",
+    "category": "character",
+    "summary": "Custom character sheet template.",
+    "tags": [
+      "pc",
+      "character",
+      "sheet"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Herman Wentworth\n\n![portrait](/wiki/media/REPLACE.jpg)\n*Custom Player Character*\n\n**Player:**\n**Pronouns:**\n**Concept:**\n**Status:** active\n\n## Identity\n\n- **Ancestry / Species:**\n- **Culture / Home:**\n- **Calling / Career:**\n- **Affiliation:** [[Faction]]\n\n## Core Stats\n\n| Trait | Value | Notes |\n| --- | --- | --- |\n| Primary attribute |  |  |\n| Secondary attribute |  |  |\n| Defense / Save |  |  |\n| Health / Harm |  |  |\n| Resource |  |  |\n\n## Skills & Edges\n\n- Skill / edge - rating - note\n\n## Gear\n\n- Item - note\n\n## Bonds\n\n- [[NPC]] - relationship\n- [[Location]] - tie\n\n## Goals\n\n- Short-term:\n- Long-term:\n\n:::gm\n## GM Notes\n\nSecrets, flags, hooks, and pressure points.\n:::\n",
+    "playerText": "# Herman Wentworth\n\n![portrait](/wiki/media/REPLACE.jpg)\n*Custom Player Character*\n\n**Player:**\n**Pronouns:**\n**Concept:**\n**Status:** active\n\n## Identity\n\n- **Ancestry / Species:**\n- **Culture / Home:**\n- **Calling / Career:**\n- **Affiliation:** [[Faction]]\n\n## Core Stats\n\n| Trait | Value | Notes |\n| --- | --- | --- |\n| Primary attribute |  |  |\n| Secondary attribute |  |  |\n| Defense / Save |  |  |\n| Health / Harm |  |  |\n| Resource |  |  |\n\n## Skills & Edges\n\n- Skill / edge - rating - note\n\n## Gear\n\n- Item - note\n\n## Bonds\n\n- [[NPC]] - relationship\n- [[Location]] - tie\n\n## Goals\n\n- Short-term:\n- Long-term:\n\n\n",
+    "links": [
+      "Faction",
+      "NPC",
+      "Location"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:Regina-Wentworth",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -58,6 +84,26 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Dulcinea-Fountaine.jpg\nwiki/media/Dulcinea-Fountaine.jpg\nDulcinea Fountaine",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Herman-Wentworth.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Herman-Wentworth.jpg",
+    "title": "Herman-Wentworth.jpg",
+    "category": "media",
+    "summary": "Herman Wentworth",
+    "tags": [],
+    "aliases": [
+      "Herman-Wentworth.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Herman-Wentworth.jpg\nwiki/media/Herman-Wentworth.jpg\nHerman-Wentworth.jpg\nHerman Wentworth",
     "playerText": "",
     "links": [],
     "backlinks": [],
