@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "7:media:wiki/media/Dulcinea-Fountaine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Dulcinea-Fountaine.jpg",
+    "title": "Dulcinea Fountaine",
+    "category": "media",
+    "summary": "wiki/media/Dulcinea-Fountaine.jpg",
+    "tags": [],
+    "aliases": [
+      "Dulcinea-Fountaine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Dulcinea-Fountaine.jpg\nwiki/media/Dulcinea-Fountaine.jpg\nDulcinea Fountaine",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  }
+]
