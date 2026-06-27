@@ -202,6 +202,26 @@
     "keyLinks": []
   },
   {
+    "id": "7:No-lle-de-Rozan-Scullery-Maid",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "No-lle-de-Rozan-Scullery-Maid",
+    "title": "Noëlle de Rozan (Scullery Maid)",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Noëlle de Rozan (Scullery Maid)\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n:::gm\nWhat they really want, know, or fear.\n:::\n",
+    "playerText": "# Noëlle de Rozan (Scullery Maid)\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:Regina-Wentworth",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
