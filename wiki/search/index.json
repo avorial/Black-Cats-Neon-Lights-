@@ -24,6 +24,28 @@
     "keyLinks": []
   },
   {
+    "id": "7:Burk-Vinet-Head-Butler",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "Burk-Vinet-Head-Butler",
+    "title": "Burk Vinet  (Head Butler)",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Burk Vinet  (Head Butler)\n\n## Public Face\n\n## Relationships\n\n- [[Someone]]\n\n:::gm\nWhat they want, hide, and know.\n:::\n",
+    "playerText": "# Burk Vinet  (Head Butler)\n\n## Public Face\n\n## Relationships\n\n- [[Someone]]\n\n\n",
+    "links": [
+      "Someone"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:Dorian-Van-Der-lynden",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
