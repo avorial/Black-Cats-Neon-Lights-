@@ -132,6 +132,26 @@
     "keyLinks": []
   },
   {
+    "id": "7:Staff",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "Staff",
+    "title": "Staff",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Staff\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n:::gm\nWhat they really want, know, or fear.\n:::\n",
+    "playerText": "# Staff\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Dorian-Van-Der-lynden.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
