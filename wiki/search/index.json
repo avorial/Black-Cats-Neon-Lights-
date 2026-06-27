@@ -196,6 +196,28 @@
     "keyLinks": []
   },
   {
+    "id": "7:The-7-Lines-of-the-Fountaine-Family",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "The-7-Lines-of-the-Fountaine-Family",
+    "title": "The 7 Lines of the Fountaine Family",
+    "category": "lore",
+    "summary": "",
+    "tags": [
+      "lore"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# The 7 Lines of the Fountaine Family\n\n## Summary\n\n\n## Details\n\n\n## Related\n\n- [[Page Name]]\n\n:::gm\nThe truth behind the myth.\n:::\n",
+    "playerText": "# The 7 Lines of the Fountaine Family\n\n## Summary\n\n\n## Details\n\n\n## Related\n\n- [[Page Name]]\n\n\n",
+    "links": [
+      "Page Name"
+    ],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Ariel-Fontaine.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
