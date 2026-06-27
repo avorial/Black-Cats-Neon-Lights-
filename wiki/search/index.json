@@ -46,6 +46,26 @@
     "keyLinks": []
   },
   {
+    "id": "7:Cloe-Jourdain-Head-Maid",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "Cloe-Jourdain-Head-Maid",
+    "title": "Cloe Jourdain (Head Maid)",
+    "category": "npc",
+    "summary": "",
+    "tags": [
+      "npc"
+    ],
+    "aliases": [],
+    "visibility": "players",
+    "approvalStatus": "approved",
+    "text": "# Cloe Jourdain (Head Maid)\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n:::gm\nWhat they really want, know, or fear.\n:::\n",
+    "playerText": "# Cloe Jourdain (Head Maid)\n\n## Public Face\n\n\n## Relationships\n\n\n## Secrets\n\n\n",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:Dorian-Van-Der-lynden",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
