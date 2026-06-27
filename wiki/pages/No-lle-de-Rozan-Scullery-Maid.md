@@ -10,7 +10,8 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas
+parent: Staff
 ---
 
 # Noëlle de Rozan (Scullery Maid)
