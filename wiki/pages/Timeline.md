@@ -24,6 +24,20 @@ lastEditedBy: AI via MCP
 - Important locations: [[Faubourg Saint-Germain Manor]], [[21 Avenue Montaigne]].
 - Important clues: The Duke has a manor, a flat, a wife who may know more, and an NPC-list painting rather than a photograph.
 
+### [[Ariel Fontaine]] (inferred)
+
+- Investigated a photograph, [[Maribel Fontaine]], the red masked ghost/herald, murdered young women, [[Louis Lepine]], and [[Maurice Maeterlinck]].
+- Important NPCs: [[Maribel Fontaine]], [[Louis Lepine]], [[Maurice Maeterlinck]].
+- Important documents or clues: [[Fontaine Investigation Photograph]], [[Organ Murders]], [[The Red Knight]].
+- Date note: inferred from proximity to Ariel's dated downtime file and the shared Duke/Fontaine investigation phase.
+
+### [[Regina Wentworth]] (inferred)
+
+- Examined old handmade shoes and researched the [[Duc de Roudier]] connection to Cassilda, [[Ecole des Beaux-Arts]], and [[The King in Yellow (Performances)]].
+- Important NPCs: [[Duc de Roudier]].
+- Important locations: [[Chateau de Roudier]], [[Ecole des Beaux-Arts]].
+- Date note: inferred from the adjacent Duke investigation material; the source file itself has no explicit date.
+
 ## 2021-08-09
 
 ### [[Newland Van Der Lynden]]
@@ -32,6 +46,13 @@ lastEditedBy: AI via MCP
 - Important NPCs: [[Louise Weber]], [[Albert de Rochas]].
 - Important locations: [[Villa de Rochas]].
 - Important documents or clues: [[Junk in the Trunk Runes]], [[Gold Room Creature]], [[Kaladi Bedur]].
+
+### [[Newland Van Der Lynden]] (inferred)
+
+- Researched [[Le Soleil d'Or]] and questioned [[Burk Vinet]].
+- Important NPCs: [[Burk Vinet]], [[Chloe]].
+- Important locations: [[Le Soleil d'Or]].
+- Date note: inferred as an early Newland downtime before the later 2021-10-11 and 2021-10-25 follow-ups; the source file itself has no explicit date.
 
 ## 2021-10-11
 
@@ -82,27 +103,7 @@ lastEditedBy: AI via MCP
 ### [[Newland Van Der Lynden]]
 
 - Experimented with [[Crystal Shards from the Ibroix]] using light, [[Unidentified Forces by Albert de Rochas]], a mouse, and [[Carcosan Absinthe]].
-- Researched [[Kaladi Bedur]], [[Sasha Kersiki]], [[Philippe Du Pol]], the [[The Warton Players]], the [[Sunrise Order]], and [[Jean-Leon Gerome]].
-- Important NPCs: [[Sasha Kersiki]], [[Louis Lepine]], [[Philippe Du Pol]], [[Jean-Leon Gerome]], [[Dulcinea Fontaine]].
+- Researched [[Kaladi Bedur]], [[Doctor Sasha Kersiki]], [[Phillip Du Pol]], the [[The Warton Players]], the [[Sunrise Order]], and [[Jean-Leon Gerome]].
+- Important NPCs: [[Doctor Sasha Kersiki]], [[Louis Lepine]], [[Phillip Du Pol]], [[Jean-Leon Gerome]], [[Dulcinea Fontaine]].
 - Important locations: [[Grand Hotel]], [[Ecole des Beaux-Arts]], [[Corsica]], [[Carcosa]].
 - Important documents or clues: [[Crystal Shards from the Ibroix]], [[Unidentified Forces by Albert de Rochas]], [[The King in Yellow (Performances)]], [[Sunrise Order King in Yellow Version]].
-
-## Date Uncertain
-
-### [[Ariel Fontaine]]
-
-- Investigated a photograph, [[Maribel Fontaine]], the red masked ghost/herald, murdered young women, [[Louis Lepine]], and [[Maurice Maeterlinck]].
-- Important NPCs: [[Maribel Fontaine]], [[Louis Lepine]], [[Maurice Maeterlinck]].
-- Important documents or clues: [[Fontaine Investigation Photograph]], [[Organ Murders]], [[The Red Knight]].
-
-### [[Newland Van Der Lynden]]
-
-- Researched [[Le Soleil d'Or]] and questioned [[Burk Vinet]].
-- Important NPCs: [[Burk Vinet]], [[Chloe]].
-- Important locations: [[Le Soleil d'Or]].
-
-### [[Regina Wentworth]]
-
-- Examined old handmade shoes and researched the [[Duc de Roudier]] connection to Cassilda, [[Ecole des Beaux-Arts]], and [[The King in Yellow (Performances)]].
-- Important NPCs: [[Duc de Roudier]].
-- Important locations: [[Chateau de Roudier]], [[Ecole des Beaux-Arts]].
