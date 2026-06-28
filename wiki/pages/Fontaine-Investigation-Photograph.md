@@ -27,7 +27,7 @@ Molly's notes also mention that [[Adele Fontaine]] photographed one Red Knight-r
 
 ## Found By / Connected To
 
-- [[Ariel Fontaine]] - Date uncertain
+- [[Ariel Fontaine]] - 2021-06-28 (inferred)
 - [[Molly]] - 2021-10-25
 
 ## Related NPCs
