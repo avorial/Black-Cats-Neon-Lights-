@@ -80,8 +80,8 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "approved",
-    "text": "# Albert de Rochas\n\n## Overview\n\nAlbert de Rochas is the author of [[Unidentified Forces by Albert de Rochas]], lives on the outskirts of Paris in the [[Villa de Rochas]], and is connected to the [[The Ibroix]] salon/cult. He was once partly trained by [[The Master]] but broke with him over the philosophy of service.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[The Master]] - former friend and partial teacher; they split over service and alien powers.\n- [[Rachel Weissman]] - associated through [[The Ibroix]]; her address is found via Rochas's book.\n\n## Associated Locations\n\n- [[Villa de Rochas]]\n\n## Associated Documents\n\n- [[Unidentified Forces by Albert de Rochas]]\n- [[Vistas Upon an Ocean of Endless Dark]]\n\n## Notes\n\n- The source says Rochas goes out on the town once a month, on the 15th.\n- He is tied to a salon that sees itself as more than a cult.",
-    "playerText": "# Albert de Rochas\n\n## Overview\n\nAlbert de Rochas is the author of [[Unidentified Forces by Albert de Rochas]], lives on the outskirts of Paris in the [[Villa de Rochas]], and is connected to the [[The Ibroix]] salon/cult. He was once partly trained by [[The Master]] but broke with him over the philosophy of service.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[The Master]] - former friend and partial teacher; they split over service and alien powers.\n- [[Rachel Weissman]] - associated through [[The Ibroix]]; her address is found via Rochas's book.\n\n## Associated Locations\n\n- [[Villa de Rochas]]\n\n## Associated Documents\n\n- [[Unidentified Forces by Albert de Rochas]]\n- [[Vistas Upon an Ocean of Endless Dark]]\n\n## Notes\n\n- The source says Rochas goes out on the town once a month, on the 15th.\n- He is tied to a salon that sees itself as more than a cult.",
+    "text": "# Albert de Rochas\n\n![Albert de Rochas.jpg](/wiki/media/Albert de Rochas.jpg)\n\n## Overview\n\nAlbert de Rochas is the author of [[Unidentified Forces by Albert de Rochas]], lives on the outskirts of Paris in the [[Villa de Rochas]], and is connected to the [[The Ibroix]] salon/cult. He was once partly trained by [[The Master]] but broke with him over the philosophy of service.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[The Master]] - former friend and partial teacher; they split over service and alien powers.\n- [[Rachel Weissman]] - associated through [[The Ibroix]]; her address is found via Rochas's book.\n\n## Associated Locations\n\n- [[Villa de Rochas]]\n\n## Associated Documents\n\n- [[Unidentified Forces by Albert de Rochas]]\n- [[Vistas Upon an Ocean of Endless Dark]]\n\n## Notes\n\n- The source says Rochas goes out on the town once a month, on the 15th.\n- He is tied to a salon that sees itself as more than a cult.",
+    "playerText": "# Albert de Rochas\n\n![Albert de Rochas.jpg](/wiki/media/Albert de Rochas.jpg)\n\n## Overview\n\nAlbert de Rochas is the author of [[Unidentified Forces by Albert de Rochas]], lives on the outskirts of Paris in the [[Villa de Rochas]], and is connected to the [[The Ibroix]] salon/cult. He was once partly trained by [[The Master]] but broke with him over the philosophy of service.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[The Master]] - former friend and partial teacher; they split over service and alien powers.\n- [[Rachel Weissman]] - associated through [[The Ibroix]]; her address is found via Rochas's book.\n\n## Associated Locations\n\n- [[Villa de Rochas]]\n\n## Associated Documents\n\n- [[Unidentified Forces by Albert de Rochas]]\n- [[Vistas Upon an Ocean of Endless Dark]]\n\n## Notes\n\n- The source says Rochas goes out on the town once a month, on the 15th.\n- He is tied to a salon that sees itself as more than a cult.",
     "links": [
       "Unidentified Forces by Albert de Rochas",
       "Villa de Rochas",
@@ -2879,6 +2879,86 @@
     "keyLinks": []
   },
   {
+    "id": "7:media:wiki/media/Albert Vanel.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Albert Vanel.png",
+    "title": "Albert Vanel.png",
+    "category": "media",
+    "summary": "wiki/media/Albert Vanel.png",
+    "tags": [],
+    "aliases": [
+      "Albert Vanel.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Albert Vanel.png\nwiki/media/Albert Vanel.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Albert de Rochas.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Albert de Rochas.jpg",
+    "title": "Albert de Rochas.jpg",
+    "category": "media",
+    "summary": "wiki/media/Albert de Rochas.jpg",
+    "tags": [],
+    "aliases": [
+      "Albert de Rochas.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Albert de Rochas.jpg\nwiki/media/Albert de Rochas.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Alphonse Nuard.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Alphonse Nuard.png",
+    "title": "Alphonse Nuard.png",
+    "category": "media",
+    "summary": "wiki/media/Alphonse Nuard.png",
+    "tags": [],
+    "aliases": [
+      "Alphonse Nuard.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Alphonse Nuard.png\nwiki/media/Alphonse Nuard.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Ariel Fontaine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Ariel Fontaine.jpg",
+    "title": "Ariel Fontaine.jpg",
+    "category": "media",
+    "summary": "wiki/media/Ariel Fontaine.jpg",
+    "tags": [],
+    "aliases": [
+      "Ariel Fontaine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Ariel Fontaine.jpg\nwiki/media/Ariel Fontaine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Ariel-Fontaine.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -2893,6 +2973,146 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Ariel-Fontaine.jpg\nwiki/media/Ariel-Fontaine.jpg\nAriel-Fontaine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Benjamin Helmer.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Benjamin Helmer.jpg",
+    "title": "Benjamin Helmer.jpg",
+    "category": "media",
+    "summary": "wiki/media/Benjamin Helmer.jpg",
+    "tags": [],
+    "aliases": [
+      "Benjamin Helmer.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Benjamin Helmer.jpg\nwiki/media/Benjamin Helmer.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Bertie Astor.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Bertie Astor.jpg",
+    "title": "Bertie Astor.jpg",
+    "category": "media",
+    "summary": "wiki/media/Bertie Astor.jpg",
+    "tags": [],
+    "aliases": [
+      "Bertie Astor.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Bertie Astor.jpg\nwiki/media/Bertie Astor.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Burk Vinet.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Burk Vinet.png",
+    "title": "Burk Vinet.png",
+    "category": "media",
+    "summary": "wiki/media/Burk Vinet.png",
+    "tags": [],
+    "aliases": [
+      "Burk Vinet.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Burk Vinet.png\nwiki/media/Burk Vinet.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Cabaret du Nant.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Cabaret du Nant.png",
+    "title": "Cabaret du Nant.png",
+    "category": "media",
+    "summary": "wiki/media/Cabaret du Nant.png",
+    "tags": [],
+    "aliases": [
+      "Cabaret du Nant.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Cabaret du Nant.png\nwiki/media/Cabaret du Nant.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Carmilla.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Carmilla.png",
+    "title": "Carmilla.png",
+    "category": "media",
+    "summary": "wiki/media/Carmilla.png",
+    "tags": [],
+    "aliases": [
+      "Carmilla.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Carmilla.png\nwiki/media/Carmilla.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Cleste Vicaire.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Cleste Vicaire.jpg",
+    "title": "Cleste Vicaire.jpg",
+    "category": "media",
+    "summary": "wiki/media/Cleste Vicaire.jpg",
+    "tags": [],
+    "aliases": [
+      "Cleste Vicaire.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Cleste Vicaire.jpg\nwiki/media/Cleste Vicaire.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Cloe Jourdain.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Cloe Jourdain.jpg",
+    "title": "Cloe Jourdain.jpg",
+    "category": "media",
+    "summary": "wiki/media/Cloe Jourdain.jpg",
+    "tags": [],
+    "aliases": [
+      "Cloe Jourdain.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Cloe Jourdain.jpg\nwiki/media/Cloe Jourdain.jpg",
     "playerText": "",
     "links": [],
     "backlinks": [],
@@ -2919,6 +3139,46 @@
     "keyLinks": []
   },
   {
+    "id": "7:media:wiki/media/Duc De Roudier.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Duc De Roudier.jpg",
+    "title": "Duc De Roudier.jpg",
+    "category": "media",
+    "summary": "wiki/media/Duc De Roudier.jpg",
+    "tags": [],
+    "aliases": [
+      "Duc De Roudier.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Duc De Roudier.jpg\nwiki/media/Duc De Roudier.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Dulcinea Fountaine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Dulcinea Fountaine.jpg",
+    "title": "Dulcinea Fountaine.jpg",
+    "category": "media",
+    "summary": "wiki/media/Dulcinea Fountaine.jpg",
+    "tags": [],
+    "aliases": [
+      "Dulcinea Fountaine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Dulcinea Fountaine.jpg\nwiki/media/Dulcinea Fountaine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Dulcinea-Fountaine.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -2933,6 +3193,46 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Dulcinea-Fountaine.jpg\nwiki/media/Dulcinea-Fountaine.jpg\nDulcinea Fountaine",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Etoile Polaire Apartments.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Etoile Polaire Apartments.jpg",
+    "title": "Etoile Polaire Apartments.jpg",
+    "category": "media",
+    "summary": "wiki/media/Etoile Polaire Apartments.jpg",
+    "tags": [],
+    "aliases": [
+      "Etoile Polaire Apartments.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Etoile Polaire Apartments.jpg\nwiki/media/Etoile Polaire Apartments.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Etolie Polaire.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Etolie Polaire.jpg",
+    "title": "Etolie Polaire.jpg",
+    "category": "media",
+    "summary": "wiki/media/Etolie Polaire.jpg",
+    "tags": [],
+    "aliases": [
+      "Etolie Polaire.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Etolie Polaire.jpg\nwiki/media/Etolie Polaire.jpg",
     "playerText": "",
     "links": [],
     "backlinks": [],
@@ -2959,6 +3259,166 @@
     "keyLinks": []
   },
   {
+    "id": "7:media:wiki/media/Florence Lepine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Florence Lepine.jpg",
+    "title": "Florence Lepine.jpg",
+    "category": "media",
+    "summary": "wiki/media/Florence Lepine.jpg",
+    "tags": [],
+    "aliases": [
+      "Florence Lepine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Florence Lepine.jpg\nwiki/media/Florence Lepine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Francesca Beaufort.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Francesca Beaufort.jpg",
+    "title": "Francesca Beaufort.jpg",
+    "category": "media",
+    "summary": "wiki/media/Francesca Beaufort.jpg",
+    "tags": [],
+    "aliases": [
+      "Francesca Beaufort.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Francesca Beaufort.jpg\nwiki/media/Francesca Beaufort.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Gaston Leroux.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Gaston Leroux.jpg",
+    "title": "Gaston Leroux.jpg",
+    "category": "media",
+    "summary": "wiki/media/Gaston Leroux.jpg",
+    "tags": [],
+    "aliases": [
+      "Gaston Leroux.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Gaston Leroux.jpg\nwiki/media/Gaston Leroux.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Georges Saccard.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Georges Saccard.jpg",
+    "title": "Georges Saccard.jpg",
+    "category": "media",
+    "summary": "wiki/media/Georges Saccard.jpg",
+    "tags": [],
+    "aliases": [
+      "Georges Saccard.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Georges Saccard.jpg\nwiki/media/Georges Saccard.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Georgette Adenis.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Georgette Adenis.png",
+    "title": "Georgette Adenis.png",
+    "category": "media",
+    "summary": "wiki/media/Georgette Adenis.png",
+    "tags": [],
+    "aliases": [
+      "Georgette Adenis.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Georgette Adenis.png\nwiki/media/Georgette Adenis.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Gustave Vanel.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Gustave Vanel.png",
+    "title": "Gustave Vanel.png",
+    "category": "media",
+    "summary": "wiki/media/Gustave Vanel.png",
+    "tags": [],
+    "aliases": [
+      "Gustave Vanel.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Gustave Vanel.png\nwiki/media/Gustave Vanel.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Henry Cooper.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Henry Cooper.png",
+    "title": "Henry Cooper.png",
+    "category": "media",
+    "summary": "wiki/media/Henry Cooper.png",
+    "tags": [],
+    "aliases": [
+      "Henry Cooper.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Henry Cooper.png\nwiki/media/Henry Cooper.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Herman Wentworth.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Herman Wentworth.jpg",
+    "title": "Herman Wentworth.jpg",
+    "category": "media",
+    "summary": "wiki/media/Herman Wentworth.jpg",
+    "tags": [],
+    "aliases": [
+      "Herman Wentworth.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Herman Wentworth.jpg\nwiki/media/Herman Wentworth.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Herman-Wentworth.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -2973,6 +3433,466 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Herman-Wentworth.jpg\nwiki/media/Herman-Wentworth.jpg\nHerman-Wentworth.jpg\nHerman Wentworth",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Hlne Monteacute.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Hlne Monteacute.png",
+    "title": "Hlne Monteacute.png",
+    "category": "media",
+    "summary": "wiki/media/Hlne Monteacute.png",
+    "tags": [],
+    "aliases": [
+      "Hlne Monteacute.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Hlne Monteacute.png\nwiki/media/Hlne Monteacute.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Htel-Dieu.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Htel-Dieu.jpg",
+    "title": "Htel-Dieu.jpg",
+    "category": "media",
+    "summary": "wiki/media/Htel-Dieu.jpg",
+    "tags": [],
+    "aliases": [
+      "Htel-Dieu.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Htel-Dieu.jpg\nwiki/media/Htel-Dieu.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/IMPRESARIO.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/IMPRESARIO.png",
+    "title": "IMPRESARIO.png",
+    "category": "media",
+    "summary": "wiki/media/IMPRESARIO.png",
+    "tags": [],
+    "aliases": [
+      "IMPRESARIO.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "IMPRESARIO.png\nwiki/media/IMPRESARIO.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Imogen Jean-Paul.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Imogen Jean-Paul.jpg",
+    "title": "Imogen Jean-Paul.jpg",
+    "category": "media",
+    "summary": "wiki/media/Imogen Jean-Paul.jpg",
+    "tags": [],
+    "aliases": [
+      "Imogen Jean-Paul.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Imogen Jean-Paul.jpg\nwiki/media/Imogen Jean-Paul.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Isidore Cuvier.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Isidore Cuvier.jpg",
+    "title": "Isidore Cuvier.jpg",
+    "category": "media",
+    "summary": "wiki/media/Isidore Cuvier.jpg",
+    "tags": [],
+    "aliases": [
+      "Isidore Cuvier.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Isidore Cuvier.jpg\nwiki/media/Isidore Cuvier.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Jacques Picou general manager.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Jacques Picou general manager.jpg",
+    "title": "Jacques Picou general manager.jpg",
+    "category": "media",
+    "summary": "wiki/media/Jacques Picou general manager.jpg",
+    "tags": [],
+    "aliases": [
+      "Jacques Picou general manager.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Jacques Picou general manager.jpg\nwiki/media/Jacques Picou general manager.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Jay Manu.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Jay Manu.png",
+    "title": "Jay Manu.png",
+    "category": "media",
+    "summary": "wiki/media/Jay Manu.png",
+    "tags": [],
+    "aliases": [
+      "Jay Manu.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Jay Manu.png\nwiki/media/Jay Manu.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Jean-Lon Grme.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Jean-Lon Grme.jpg",
+    "title": "Jean-Lon Grme.jpg",
+    "category": "media",
+    "summary": "wiki/media/Jean-Lon Grme.jpg",
+    "tags": [],
+    "aliases": [
+      "Jean-Lon Grme.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Jean-Lon Grme.jpg\nwiki/media/Jean-Lon Grme.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Joris-Karl Huysmans.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Joris-Karl Huysmans.png",
+    "title": "Joris-Karl Huysmans.png",
+    "category": "media",
+    "summary": "wiki/media/Joris-Karl Huysmans.png",
+    "tags": [],
+    "aliases": [
+      "Joris-Karl Huysmans.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Joris-Karl Huysmans.png\nwiki/media/Joris-Karl Huysmans.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/La Goulue.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/La Goulue.jpg",
+    "title": "La Goulue.jpg",
+    "category": "media",
+    "summary": "wiki/media/La Goulue.jpg",
+    "tags": [],
+    "aliases": [
+      "La Goulue.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "La Goulue.jpg\nwiki/media/La Goulue.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Laurie Rosedale.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Laurie Rosedale.jpg",
+    "title": "Laurie Rosedale.jpg",
+    "category": "media",
+    "summary": "wiki/media/Laurie Rosedale.jpg",
+    "tags": [],
+    "aliases": [
+      "Laurie Rosedale.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Laurie Rosedale.jpg\nwiki/media/Laurie Rosedale.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Le Soleil dOr.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Le Soleil dOr.jpg",
+    "title": "Le Soleil dOr.jpg",
+    "category": "media",
+    "summary": "wiki/media/Le Soleil dOr.jpg",
+    "tags": [],
+    "aliases": [
+      "Le Soleil dOr.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Le Soleil dOr.jpg\nwiki/media/Le Soleil dOr.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Le des Beaux-Arts.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Le des Beaux-Arts.png",
+    "title": "Le des Beaux-Arts.png",
+    "category": "media",
+    "summary": "wiki/media/Le des Beaux-Arts.png",
+    "tags": [],
+    "aliases": [
+      "Le des Beaux-Arts.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Le des Beaux-Arts.png\nwiki/media/Le des Beaux-Arts.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Le veau Gras.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Le veau Gras.jpg",
+    "title": "Le veau Gras.jpg",
+    "category": "media",
+    "summary": "wiki/media/Le veau Gras.jpg",
+    "tags": [],
+    "aliases": [
+      "Le veau Gras.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Le veau Gras.jpg\nwiki/media/Le veau Gras.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Loie Fuller.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Loie Fuller.jpg",
+    "title": "Loie Fuller.jpg",
+    "category": "media",
+    "summary": "wiki/media/Loie Fuller.jpg",
+    "tags": [],
+    "aliases": [
+      "Loie Fuller.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Loie Fuller.jpg\nwiki/media/Loie Fuller.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Lou Goulven.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Lou Goulven.jpg",
+    "title": "Lou Goulven.jpg",
+    "category": "media",
+    "summary": "wiki/media/Lou Goulven.jpg",
+    "tags": [],
+    "aliases": [
+      "Lou Goulven.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Lou Goulven.jpg\nwiki/media/Lou Goulven.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Louis Lpine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Louis Lpine.jpg",
+    "title": "Louis Lpine.jpg",
+    "category": "media",
+    "summary": "wiki/media/Louis Lpine.jpg",
+    "tags": [],
+    "aliases": [
+      "Louis Lpine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Louis Lpine.jpg\nwiki/media/Louis Lpine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Louis Pasteur.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Louis Pasteur.png",
+    "title": "Louis Pasteur.png",
+    "category": "media",
+    "summary": "wiki/media/Louis Pasteur.png",
+    "tags": [],
+    "aliases": [
+      "Louis Pasteur.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Louis Pasteur.png\nwiki/media/Louis Pasteur.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Lucien Valadin.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Lucien Valadin.jpg",
+    "title": "Lucien Valadin.jpg",
+    "category": "media",
+    "summary": "wiki/media/Lucien Valadin.jpg",
+    "tags": [],
+    "aliases": [
+      "Lucien Valadin.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Lucien Valadin.jpg\nwiki/media/Lucien Valadin.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Luna van Siclen.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Luna van Siclen.jpg",
+    "title": "Luna van Siclen.jpg",
+    "category": "media",
+    "summary": "wiki/media/Luna van Siclen.jpg",
+    "tags": [],
+    "aliases": [
+      "Luna van Siclen.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Luna van Siclen.jpg\nwiki/media/Luna van Siclen.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Marcel Brisson.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Marcel Brisson.jpg",
+    "title": "Marcel Brisson.jpg",
+    "category": "media",
+    "summary": "wiki/media/Marcel Brisson.jpg",
+    "tags": [],
+    "aliases": [
+      "Marcel Brisson.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Marcel Brisson.jpg\nwiki/media/Marcel Brisson.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Marcel Gavard.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Marcel Gavard.jpg",
+    "title": "Marcel Gavard.jpg",
+    "category": "media",
+    "summary": "wiki/media/Marcel Gavard.jpg",
+    "tags": [],
+    "aliases": [
+      "Marcel Gavard.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Marcel Gavard.jpg\nwiki/media/Marcel Gavard.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Marcel Proust.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Marcel Proust.jpg",
+    "title": "Marcel Proust.jpg",
+    "category": "media",
+    "summary": "wiki/media/Marcel Proust.jpg",
+    "tags": [],
+    "aliases": [
+      "Marcel Proust.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Marcel Proust.jpg\nwiki/media/Marcel Proust.jpg",
     "playerText": "",
     "links": [],
     "backlinks": [],
@@ -2999,6 +3919,106 @@
     "keyLinks": []
   },
   {
+    "id": "7:media:wiki/media/Marie Curie.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Marie Curie.jpg",
+    "title": "Marie Curie.jpg",
+    "category": "media",
+    "summary": "wiki/media/Marie Curie.jpg",
+    "tags": [],
+    "aliases": [
+      "Marie Curie.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Marie Curie.jpg\nwiki/media/Marie Curie.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Marthe Sicardot.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Marthe Sicardot.jpg",
+    "title": "Marthe Sicardot.jpg",
+    "category": "media",
+    "summary": "wiki/media/Marthe Sicardot.jpg",
+    "tags": [],
+    "aliases": [
+      "Marthe Sicardot.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Marthe Sicardot.jpg\nwiki/media/Marthe Sicardot.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Maurice Koechlin.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Maurice Koechlin.jpg",
+    "title": "Maurice Koechlin.jpg",
+    "category": "media",
+    "summary": "wiki/media/Maurice Koechlin.jpg",
+    "tags": [],
+    "aliases": [
+      "Maurice Koechlin.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Maurice Koechlin.jpg\nwiki/media/Maurice Koechlin.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Maurice Maeterlinck.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Maurice Maeterlinck.jpg",
+    "title": "Maurice Maeterlinck.jpg",
+    "category": "media",
+    "summary": "wiki/media/Maurice Maeterlinck.jpg",
+    "tags": [],
+    "aliases": [
+      "Maurice Maeterlinck.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Maurice Maeterlinck.jpg\nwiki/media/Maurice Maeterlinck.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Mechanic.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Mechanic.png",
+    "title": "Mechanic.png",
+    "category": "media",
+    "summary": "wiki/media/Mechanic.png",
+    "tags": [],
+    "aliases": [
+      "Mechanic.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Mechanic.png\nwiki/media/Mechanic.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Meredith-Katherine-Molly-Cooper.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -3013,6 +4033,146 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Meredith-Katherine-Molly-Cooper.jpg\nwiki/media/Meredith-Katherine-Molly-Cooper.jpg\nMeredith-Katherine-Molly-Cooper.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Michael Gourand.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Michael Gourand.jpg",
+    "title": "Michael Gourand.jpg",
+    "category": "media",
+    "summary": "wiki/media/Michael Gourand.jpg",
+    "tags": [],
+    "aliases": [
+      "Michael Gourand.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Michael Gourand.jpg\nwiki/media/Michael Gourand.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Miette.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Miette.jpg",
+    "title": "Miette.jpg",
+    "category": "media",
+    "summary": "wiki/media/Miette.jpg",
+    "tags": [],
+    "aliases": [
+      "Miette.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Miette.jpg\nwiki/media/Miette.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Mollys Painting.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Mollys Painting.jpg",
+    "title": "Mollys Painting.jpg",
+    "category": "media",
+    "summary": "wiki/media/Mollys Painting.jpg",
+    "tags": [],
+    "aliases": [
+      "Mollys Painting.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Mollys Painting.jpg\nwiki/media/Mollys Painting.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Museum.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Museum.jpg",
+    "title": "Museum.jpg",
+    "category": "media",
+    "summary": "wiki/media/Museum.jpg",
+    "tags": [],
+    "aliases": [
+      "Museum.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Museum.jpg\nwiki/media/Museum.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Mysterious Note 2.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Mysterious Note 2.jpg",
+    "title": "Mysterious Note 2.jpg",
+    "category": "media",
+    "summary": "wiki/media/Mysterious Note 2.jpg",
+    "tags": [],
+    "aliases": [
+      "Mysterious Note 2.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Mysterious Note 2.jpg\nwiki/media/Mysterious Note 2.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Mysterious Note.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Mysterious Note.jpg",
+    "title": "Mysterious Note.jpg",
+    "category": "media",
+    "summary": "wiki/media/Mysterious Note.jpg",
+    "tags": [],
+    "aliases": [
+      "Mysterious Note.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Mysterious Note.jpg\nwiki/media/Mysterious Note.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Mysterious Note.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Mysterious Note.png",
+    "title": "Mysterious Note.png",
+    "category": "media",
+    "summary": "wiki/media/Mysterious Note.png",
+    "tags": [],
+    "aliases": [
+      "Mysterious Note.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Mysterious Note.png\nwiki/media/Mysterious Note.png",
     "playerText": "",
     "links": [],
     "backlinks": [],
@@ -3039,6 +4199,326 @@
     "keyLinks": []
   },
   {
+    "id": "7:media:wiki/media/Nico Trevanny.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Nico Trevanny.png",
+    "title": "Nico Trevanny.png",
+    "category": "media",
+    "summary": "wiki/media/Nico Trevanny.png",
+    "tags": [],
+    "aliases": [
+      "Nico Trevanny.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Nico Trevanny.png\nwiki/media/Nico Trevanny.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Nolle de Rozan.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Nolle de Rozan.png",
+    "title": "Nolle de Rozan.png",
+    "category": "media",
+    "summary": "wiki/media/Nolle de Rozan.png",
+    "tags": [],
+    "aliases": [
+      "Nolle de Rozan.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Nolle de Rozan.png\nwiki/media/Nolle de Rozan.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Oprah House.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Oprah House.jpg",
+    "title": "Oprah House.jpg",
+    "category": "media",
+    "summary": "wiki/media/Oprah House.jpg",
+    "tags": [],
+    "aliases": [
+      "Oprah House.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Oprah House.jpg\nwiki/media/Oprah House.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Orane.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Orane.jpg",
+    "title": "Orane.jpg",
+    "category": "media",
+    "summary": "wiki/media/Orane.jpg",
+    "tags": [],
+    "aliases": [
+      "Orane.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Orane.jpg\nwiki/media/Orane.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Oscar Mtnier.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Oscar Mtnier.jpg",
+    "title": "Oscar Mtnier.jpg",
+    "category": "media",
+    "summary": "wiki/media/Oscar Mtnier.jpg",
+    "tags": [],
+    "aliases": [
+      "Oscar Mtnier.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Oscar Mtnier.jpg\nwiki/media/Oscar Mtnier.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Oscar Sanderson.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Oscar Sanderson.png",
+    "title": "Oscar Sanderson.png",
+    "category": "media",
+    "summary": "wiki/media/Oscar Sanderson.png",
+    "tags": [],
+    "aliases": [
+      "Oscar Sanderson.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Oscar Sanderson.png\nwiki/media/Oscar Sanderson.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Painting the Poster.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Painting the Poster.jpg",
+    "title": "Painting the Poster.jpg",
+    "category": "media",
+    "summary": "wiki/media/Painting the Poster.jpg",
+    "tags": [],
+    "aliases": [
+      "Painting the Poster.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Painting the Poster.jpg\nwiki/media/Painting the Poster.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Palais Garnier.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Palais Garnier.jpg",
+    "title": "Palais Garnier.jpg",
+    "category": "media",
+    "summary": "wiki/media/Palais Garnier.jpg",
+    "tags": [],
+    "aliases": [
+      "Palais Garnier.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Palais Garnier.jpg\nwiki/media/Palais Garnier.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Paris Districts.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Paris Districts.jpg",
+    "title": "Paris Districts.jpg",
+    "category": "media",
+    "summary": "wiki/media/Paris Districts.jpg",
+    "tags": [],
+    "aliases": [
+      "Paris Districts.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Paris Districts.jpg\nwiki/media/Paris Districts.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Philibert Wooster.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Philibert Wooster.png",
+    "title": "Philibert Wooster.png",
+    "category": "media",
+    "summary": "wiki/media/Philibert Wooster.png",
+    "tags": [],
+    "aliases": [
+      "Philibert Wooster.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Philibert Wooster.png\nwiki/media/Philibert Wooster.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Poem.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Poem.png",
+    "title": "Poem.png",
+    "category": "media",
+    "summary": "wiki/media/Poem.png",
+    "tags": [],
+    "aliases": [
+      "Poem.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Poem.png\nwiki/media/Poem.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Poster.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Poster.jpg",
+    "title": "Poster.jpg",
+    "category": "media",
+    "summary": "wiki/media/Poster.jpg",
+    "tags": [],
+    "aliases": [
+      "Poster.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Poster.jpg\nwiki/media/Poster.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Pyotr Rachkovsky.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Pyotr Rachkovsky.png",
+    "title": "Pyotr Rachkovsky.png",
+    "category": "media",
+    "summary": "wiki/media/Pyotr Rachkovsky.png",
+    "tags": [],
+    "aliases": [
+      "Pyotr Rachkovsky.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Pyotr Rachkovsky.png\nwiki/media/Pyotr Rachkovsky.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Rachel Wissmann.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Rachel Wissmann.jpg",
+    "title": "Rachel Wissmann.jpg",
+    "category": "media",
+    "summary": "wiki/media/Rachel Wissmann.jpg",
+    "tags": [],
+    "aliases": [
+      "Rachel Wissmann.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Rachel Wissmann.jpg\nwiki/media/Rachel Wissmann.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Rajid Patel.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Rajid Patel.jpg",
+    "title": "Rajid Patel.jpg",
+    "category": "media",
+    "summary": "wiki/media/Rajid Patel.jpg",
+    "tags": [],
+    "aliases": [
+      "Rajid Patel.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Rajid Patel.jpg\nwiki/media/Rajid Patel.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Red Queen.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Red Queen.jpg",
+    "title": "Red Queen.jpg",
+    "category": "media",
+    "summary": "wiki/media/Red Queen.jpg",
+    "tags": [],
+    "aliases": [
+      "Red Queen.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Red Queen.jpg\nwiki/media/Red Queen.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
     "id": "7:media:wiki/media/Regina-Wentworth.jpg",
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
@@ -3053,6 +4533,606 @@
     "visibility": "gm",
     "approvalStatus": "approved",
     "text": "Regina-Wentworth.jpg\nwiki/media/Regina-Wentworth.jpg\nRegina-Wentworth.jpg\nRegina Wentworth",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Rose Godfrey.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Rose Godfrey.jpg",
+    "title": "Rose Godfrey.jpg",
+    "category": "media",
+    "summary": "wiki/media/Rose Godfrey.jpg",
+    "tags": [],
+    "aliases": [
+      "Rose Godfrey.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Rose Godfrey.jpg\nwiki/media/Rose Godfrey.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Sasha Kersiki serbian man.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Sasha Kersiki serbian man.jpg",
+    "title": "Sasha Kersiki serbian man.jpg",
+    "category": "media",
+    "summary": "wiki/media/Sasha Kersiki serbian man.jpg",
+    "tags": [],
+    "aliases": [
+      "Sasha Kersiki serbian man.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Sasha Kersiki serbian man.jpg\nwiki/media/Sasha Kersiki serbian man.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Sidney Reilly.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Sidney Reilly.jpg",
+    "title": "Sidney Reilly.jpg",
+    "category": "media",
+    "summary": "wiki/media/Sidney Reilly.jpg",
+    "tags": [],
+    "aliases": [
+      "Sidney Reilly.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Sidney Reilly.jpg\nwiki/media/Sidney Reilly.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Sophie Sanderson-Fountaine.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Sophie Sanderson-Fountaine.png",
+    "title": "Sophie Sanderson-Fountaine.png",
+    "category": "media",
+    "summary": "wiki/media/Sophie Sanderson-Fountaine.png",
+    "tags": [],
+    "aliases": [
+      "Sophie Sanderson-Fountaine.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Sophie Sanderson-Fountaine.png\nwiki/media/Sophie Sanderson-Fountaine.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Tah-tah-kle-ah.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Tah-tah-kle-ah.jpg",
+    "title": "Tah-tah-kle-ah.jpg",
+    "category": "media",
+    "summary": "wiki/media/Tah-tah-kle-ah.jpg",
+    "tags": [],
+    "aliases": [
+      "Tah-tah-kle-ah.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Tah-tah-kle-ah.jpg\nwiki/media/Tah-tah-kle-ah.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The 7 Lines of the Fontaine Family.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The 7 Lines of the Fontaine Family.jpg",
+    "title": "The 7 Lines of the Fontaine Family.jpg",
+    "category": "media",
+    "summary": "wiki/media/The 7 Lines of the Fontaine Family.jpg",
+    "tags": [],
+    "aliases": [
+      "The 7 Lines of the Fontaine Family.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The 7 Lines of the Fontaine Family.jpg\nwiki/media/The 7 Lines of the Fontaine Family.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Egg that hatched into This.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Egg that hatched into This.jpg",
+    "title": "The Egg that hatched into This.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Egg that hatched into This.jpg",
+    "tags": [],
+    "aliases": [
+      "The Egg that hatched into This.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Egg that hatched into This.jpg\nwiki/media/The Egg that hatched into This.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Gold Prision.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Gold Prision.jpg",
+    "title": "The Gold Prision.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Gold Prision.jpg",
+    "tags": [],
+    "aliases": [
+      "The Gold Prision.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Gold Prision.jpg\nwiki/media/The Gold Prision.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Golden Water Lilly.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Golden Water Lilly.png",
+    "title": "The Golden Water Lilly.png",
+    "category": "media",
+    "summary": "wiki/media/The Golden Water Lilly.png",
+    "tags": [],
+    "aliases": [
+      "The Golden Water Lilly.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Golden Water Lilly.png\nwiki/media/The Golden Water Lilly.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Medical Case of Maribel Fontaine.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Medical Case of Maribel Fontaine.jpg",
+    "title": "The Medical Case of Maribel Fontaine.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Medical Case of Maribel Fontaine.jpg",
+    "tags": [],
+    "aliases": [
+      "The Medical Case of Maribel Fontaine.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Medical Case of Maribel Fontaine.jpg\nwiki/media/The Medical Case of Maribel Fontaine.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Men.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Men.jpg",
+    "title": "The Men.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Men.jpg",
+    "tags": [],
+    "aliases": [
+      "The Men.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Men.jpg\nwiki/media/The Men.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Player 2.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Player 2.jpg",
+    "title": "The Player 2.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Player 2.jpg",
+    "tags": [],
+    "aliases": [
+      "The Player 2.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Player 2.jpg\nwiki/media/The Player 2.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Player.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Player.jpg",
+    "title": "The Player.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Player.jpg",
+    "tags": [],
+    "aliases": [
+      "The Player.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Player.jpg\nwiki/media/The Player.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Red Knight.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Red Knight.png",
+    "title": "The Red Knight.png",
+    "category": "media",
+    "summary": "wiki/media/The Red Knight.png",
+    "tags": [],
+    "aliases": [
+      "The Red Knight.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Red Knight.png\nwiki/media/The Red Knight.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Shepherds.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Shepherds.png",
+    "title": "The Shepherds.png",
+    "category": "media",
+    "summary": "wiki/media/The Shepherds.png",
+    "tags": [],
+    "aliases": [
+      "The Shepherds.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Shepherds.png\nwiki/media/The Shepherds.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Tower.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Tower.jpg",
+    "title": "The Tower.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Tower.jpg",
+    "tags": [],
+    "aliases": [
+      "The Tower.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Tower.jpg\nwiki/media/The Tower.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Walkers.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Walkers.png",
+    "title": "The Walkers.png",
+    "category": "media",
+    "summary": "wiki/media/The Walkers.png",
+    "tags": [],
+    "aliases": [
+      "The Walkers.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Walkers.png\nwiki/media/The Walkers.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Warton Players.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Warton Players.jpg",
+    "title": "The Warton Players.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Warton Players.jpg",
+    "tags": [],
+    "aliases": [
+      "The Warton Players.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Warton Players.jpg\nwiki/media/The Warton Players.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/The Yellow King.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/The Yellow King.jpg",
+    "title": "The Yellow King.jpg",
+    "category": "media",
+    "summary": "wiki/media/The Yellow King.jpg",
+    "tags": [],
+    "aliases": [
+      "The Yellow King.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "The Yellow King.jpg\nwiki/media/The Yellow King.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Unidentified Forces by Albert de Rochas.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Unidentified Forces by Albert de Rochas.jpg",
+    "title": "Unidentified Forces by Albert de Rochas.jpg",
+    "category": "media",
+    "summary": "wiki/media/Unidentified Forces by Albert de Rochas.jpg",
+    "tags": [],
+    "aliases": [
+      "Unidentified Forces by Albert de Rochas.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Unidentified Forces by Albert de Rochas.jpg\nwiki/media/Unidentified Forces by Albert de Rochas.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled 2.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled 2.jpg",
+    "title": "Untitled 2.jpg",
+    "category": "media",
+    "summary": "wiki/media/Untitled 2.jpg",
+    "tags": [],
+    "aliases": [
+      "Untitled 2.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled 2.jpg\nwiki/media/Untitled 2.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled 2.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled 2.png",
+    "title": "Untitled 2.png",
+    "category": "media",
+    "summary": "wiki/media/Untitled 2.png",
+    "tags": [],
+    "aliases": [
+      "Untitled 2.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled 2.png\nwiki/media/Untitled 2.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled 5.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled 5.jpg",
+    "title": "Untitled 5.jpg",
+    "category": "media",
+    "summary": "wiki/media/Untitled 5.jpg",
+    "tags": [],
+    "aliases": [
+      "Untitled 5.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled 5.jpg\nwiki/media/Untitled 5.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled 7.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled 7.jpg",
+    "title": "Untitled 7.jpg",
+    "category": "media",
+    "summary": "wiki/media/Untitled 7.jpg",
+    "tags": [],
+    "aliases": [
+      "Untitled 7.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled 7.jpg\nwiki/media/Untitled 7.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled 8.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled 8.jpg",
+    "title": "Untitled 8.jpg",
+    "category": "media",
+    "summary": "wiki/media/Untitled 8.jpg",
+    "tags": [],
+    "aliases": [
+      "Untitled 8.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled 8.jpg\nwiki/media/Untitled 8.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Untitled.png",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Untitled.png",
+    "title": "Untitled.png",
+    "category": "media",
+    "summary": "wiki/media/Untitled.png",
+    "tags": [],
+    "aliases": [
+      "Untitled.png"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Untitled.png\nwiki/media/Untitled.png",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/Xavier Lassouche THE SET PAINTER.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/Xavier Lassouche THE SET PAINTER.jpg",
+    "title": "Xavier Lassouche THE SET PAINTER.jpg",
+    "category": "media",
+    "summary": "wiki/media/Xavier Lassouche THE SET PAINTER.jpg",
+    "tags": [],
+    "aliases": [
+      "Xavier Lassouche THE SET PAINTER.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "Xavier Lassouche THE SET PAINTER.jpg\nwiki/media/Xavier Lassouche THE SET PAINTER.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/graphics 5.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/graphics 5.jpg",
+    "title": "graphics 5.jpg",
+    "category": "media",
+    "summary": "wiki/media/graphics 5.jpg",
+    "tags": [],
+    "aliases": [
+      "graphics 5.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "graphics 5.jpg\nwiki/media/graphics 5.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/graphics 7.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/graphics 7.jpg",
+    "title": "graphics 7.jpg",
+    "category": "media",
+    "summary": "wiki/media/graphics 7.jpg",
+    "tags": [],
+    "aliases": [
+      "graphics 7.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "graphics 7.jpg\nwiki/media/graphics 7.jpg",
+    "playerText": "",
+    "links": [],
+    "backlinks": [],
+    "keyLinks": []
+  },
+  {
+    "id": "7:media:wiki/media/graphics.jpg",
+    "campaignId": 7,
+    "campaignName": "Black Cats & Neon Lights ",
+    "slug": "media/graphics.jpg",
+    "title": "graphics.jpg",
+    "category": "media",
+    "summary": "wiki/media/graphics.jpg",
+    "tags": [],
+    "aliases": [
+      "graphics.jpg"
+    ],
+    "visibility": "gm",
+    "approvalStatus": "approved",
+    "text": "graphics.jpg\nwiki/media/graphics.jpg",
     "playerText": "",
     "links": [],
     "backlinks": [],
