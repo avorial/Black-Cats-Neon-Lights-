@@ -1,0 +1,39 @@
+---
+category: location
+type: location
+name: Ecole des Beaux-Arts
+summary: ""
+tags:
+  - location
+visibility: gm
+approvalStatus: unapproved
+knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: AI via MCP
+---
+
+# Ecole des Beaux-Arts
+
+## Overview
+
+The art school is tied to [[Dulcinea Fontaine]], odd sightings of [[Sasha Kersiki]], supernatural events around [[Jean-Leon Gerome]], and funding for the last performance of [[The King in Yellow (Performances)]].
+
+## Appears In
+
+- [[Newland Van Der Lynden]] - 2021-10-11
+- [[Newland Van Der Lynden]] - 2021-12-13
+- [[Regina Wentworth]] - Date uncertain
+
+## Connected NPCs
+
+- [[Dulcinea Fontaine]]
+- [[Jean-Leon Gerome]]
+- [[Sasha Kersiki]]
+- [[Duc de Roudier]]
+
+## Important Events
+
+- Dulcinea stayed there while preparations continued around the clock.
+- Sasha was seen there at odd hours.
+- The Roudier family gave a grant to students for the last King in Yellow performance.

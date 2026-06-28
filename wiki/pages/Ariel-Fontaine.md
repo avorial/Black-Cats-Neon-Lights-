@@ -2,152 +2,83 @@
 category: character
 type: character
 name: Ariel Fontaine
-summary: Custom character sheet template.
+summary: ""
 tags:
-  - pc
   - character
-  - sheet
-visibility: players
-approvalStatus: approved
+visibility: gm
+approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: AI via MCP
 ---
 
 # Ariel Fontaine
 
-![portrait](/wiki/media/Ariel-Fontaine.jpg)
+## Overview
 
-*A thoughtful writer and scholar whose words seem to carry an unsettling power over life and death.*
+Ariel Fontaine is an investigator and journalist connected to a paper for which [[Herman]] later begins making cartoons. Her downtime focuses on the [[Duc de Roudier]], photographic evidence, [[Maribel Fontaine]], police suppression, and artistic circles.
 
----
+## Downtime Timeline
 
-## Character Overview
+### 2021-06-28
 
-**Name:** Ariel Fontaine
+#### Summary
+Ariel investigated the Duke, learning that he was widely loathed for arrogance and public indiscretions. The Duke's manor is in the [[Faubourg Saint-Germain Manor]], and he also keeps a flat at [[21 Avenue Montaigne]]. His wife, [[Orane Du Roudier]], lives at the manor and may have vital information. Ariel found a painting of the Duke, but no photograph.
 
-A gifted writer with a fascination for literature, history, and the strange corners of the world, Ariel possesses an inquisitive mind equally at home in libraries, archives, and workshops. Her curiosity has led her into the study of the occult and the tangled bureaucracy of Paris, but lately she has begun to suspect that her writing may have consequences far beyond ink on paper. :contentReference[oaicite:0]{index=0}
+#### People
+- [[Duc de Roudier]]
+- [[Orane Du Roudier]]
 
----
+#### Places
+- [[Faubourg Saint-Germain Manor]]
+- [[21 Avenue Montaigne]]
 
-## Investigative Kit
+#### Documents
+- None named.
 
-**Field: Belle-Lettrist**
+#### Clues and Discoveries
+- The Duke was loathed for arrogance and indiscretions.
+- The Duke has both a manor and a flat.
+- [[Orane Du Roudier]] may know vital information.
+- The archive notes a painting of the Duke, but no picture.
 
-### Investigative Abilities
+#### Open Threads
+- What information does [[Orane Du Roudier]] have?
+- Why is there no photograph of the Duke in the material Ariel found?
 
-- Belle-Lettres
-- History
-- Reassurance
-- Research
-- Photography
+#### Source
+- `009 - Downtimes for Ariel 6-28-21.md`
 
-### Additional Investigative Abilities
+### Date uncertain
 
-#### Occultism (Interpersonal)
+#### Summary
+Ariel investigated a strange photograph, [[Maribel Fontaine]], occult accounts of a red masked ghost or herald, a covered-up string of murders, and [[Maurice Maeterlinck]].
 
-The modern revival of occult traditions has left its mark on Europe and America alike. Whether believer or skeptic, you remain well informed about the people, organizations, and rivalries that shape the occult community.
+#### People
+- [[Maribel Fontaine]]
+- [[Louis Lepine]]
+- [[Maurice Maeterlinck]]
 
-You can:
+#### Places
+- [[Paris]]
 
-- Identify the traditions behind a ritual by examining its aftermath.
-- Supply historical knowledge about occult practices.
-- Infer the intended purpose of a ritual.
-- Repeat the latest gossip circulating among Parisian occultists.
-- Impress occult scholars with your familiarity with their published works.
+#### Documents
+- [[Fontaine Investigation Photograph]]
 
-#### Officialdom (Academic)
+#### Clues and Discoveries
+- Different developing methods reveal different figures in the photograph: the commonly seen ghost, a Native American with a bullet wound, and a Serbian man.
+- Maribel's father lives in Paris and works as a bureaucrat dealing with public works of the sewers.
+- A newspaper notice says Maribel's father is looking for her because she has been missing for more than a week.
+- Arcane texts describe a red-clad masked figure as possibly a blessing, avatar, herald, or manifestation of another creature.
+- The gendarmerie have covered up murders of young women whose organs were taken; the cover-up appears motivated by fear of panic or incompetence, not confirmed complicity.
+- Information about the murders goes through [[Louis Lepine]].
+- [[Maurice Maeterlinck]] appears to be an established playwright with many art-scene contacts.
 
-Parisian bureaucracy is a maze that few can navigate.
+#### Open Threads
+- Which figure in the photograph is most reliable, if any?
+- Is the red masked figure empowered costume, avatar, herald, or creature?
+- What does [[Louis Lepine]] know about the organ murders?
 
-You can:
-
-- Convince officials to provide sensitive information.
-- Obtain credentials under false pretenses.
-- Identify the person who actually knows what is happening.
-- Locate offices, files, and administrative records.
-- Borrow equipment or supplies through official channels.
-
-French officials will not, however, help gather information that can be obtained elsewhere. They are administrators, not librarians.
-
-### General Kit
-
-**Tinkerer**
-
-You know a thing or two about devices, both modern and old-fashioned.
-
----
-
-## General Abilities
-
-| Ability | Rating |
-|---------|------:|
-| Athletics | 3 |
-| Composure | 6 |
-| Fighting | 5 |
-| First Aid | 1 |
-| Health (HP) | 3 |
-| Mechanics | 6 |
-| Riding | 1 |
-| Sense Trouble | 3 |
-| Sneaking | 2 |
-| Preparedness | 5 |
-
----
-
-## Drives
-
-### Family Curse
-
-> "This weird situation reminds me of some strange hints my grandfather once dropped before his unexplained disappearance. This is finally my opportunity to comprehend our so-called ancestral doom!"
-
-### Dread Premonition
-
-> "I have always known that my life would be cut short by some implacable fate. This seems to be it, and there is no point in running."
-
----
-
-## Relationships
-
-### I Rely On
-
-**Dorian Van Der Lynden**
-
-His practical nature and determination help keep you grounded whenever your investigations venture into dangerous territory.
-
----
-
-### I Seek to Protect
-
-**Regina Wentworth**
-
-You fear Regina may become entangled in forces she neither understands nor deserves, and you intend to keep her safe.
-
----
-
-## That Deuced Peculiar Business
-
-A terrible pattern has emerged over the years.
-
-Whenever you write about someone...
-
-...they die.
-
-At first you dismissed the coincidences.
-
-Then there were too many.
-
-Your investigations have recently uncovered a horrifying connection.
-
-Every one of those deaths involved someone who had once belonged to the Fontaine family.
-
-Whether your words are prophecy, curse, or something even stranger, you cannot yet say.
-
-But every sentence you write now carries the weight of a possible death.
-
----
-
-## Key Items
-
-- Three keys to the underground passages beneath **Notre Dame**.
+#### Source
+- `020 - Ariels Investigation Downtimes.md`
