@@ -21,7 +21,7 @@ Pauline, rendered as Paulie once in the source, owns or runs [[Le Soleil d'Or]] 
 
 ## Appears In
 
-- [[From the Sun Comes Shadows]] - Date uncertain
+- [[From the Sun Comes Shadows]] - 2021-08-09 (inferred)
 
 ## Relationships
 
