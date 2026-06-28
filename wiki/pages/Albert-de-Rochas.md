@@ -15,7 +15,7 @@ lastEditedBy: patricthomas
 
 # Albert de Rochas
 
-![Albert de Rochas.jpg](/wiki/media/Albert de Rochas.jpg)
+![Albert de Rochas.jpg](/wiki/media/Albert%20de%20Rochas.jpg)
 
 ## Overview
 
