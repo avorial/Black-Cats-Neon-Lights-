@@ -5,14 +5,14 @@ name: Doctor Sasha Kersiki
 summary: ""
 tags:
   - npc
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Sasha Kersiki
   - Doctor Kersiki
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Doctor Sasha Kersiki

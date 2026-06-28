@@ -10,7 +10,7 @@ approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: CampaignRepo
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Staff

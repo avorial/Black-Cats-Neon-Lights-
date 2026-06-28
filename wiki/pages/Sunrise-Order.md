@@ -5,12 +5,12 @@ name: Sunrise Order
 summary: ""
 tags:
   - organization
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Sunrise Order

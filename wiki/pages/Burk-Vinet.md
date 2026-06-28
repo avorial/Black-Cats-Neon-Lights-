@@ -5,12 +5,12 @@ name: Burk Vinet
 summary: ""
 tags:
   - npc
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: patricthomas via bulk edit
 parent: Staff
 ---
 
