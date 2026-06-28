@@ -21,10 +21,10 @@ Regina Wentworth's downtime uses fashion and social research to identify superna
 
 ## Downtime Timeline
 
-### Date uncertain
+### 2021-06-28 (inferred)
 
 #### Summary
-Regina examined shoes and researched the [[Duc de Roudier]]. The shoes were handmade, classic or expertly made, and made from materials at least a century old. She learned that the Duke financed Cassilda almost completely and that his family supported students at [[Ecole des Beaux-Arts]] for the last performance of [[The King in Yellow (Performances)]].
+Regina examined shoes and researched the [[Duc de Roudier]]. The shoes were handmade, classic or expertly made, and made from materials at least a century old. She learned that the Duke financed Cassilda almost completely and that his family supported students at [[Ecole des Beaux-Arts]] for the last performance of [[The King in Yellow (Performances)]]. This date is inferred from the adjacent Duke investigation material; the source file itself has no explicit date.
 
 #### People
 - [[Duc de Roudier]]
