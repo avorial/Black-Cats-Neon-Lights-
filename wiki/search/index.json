@@ -462,8 +462,8 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Chloe\n\n## Overview\n\nChloe, spelled Cloe in parts of the source, is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - Date uncertain\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[Burk Vinet]] - likely ritual partner or close associate.\n- [[Albert de Rochas]] - was present through his split from [[The Master]], according to the source.\n\n## Associated Locations\n\n- [[Etoile Polaire Apartments]]\n\n## Associated Documents\n\n- [[Golden Water Lily]]\n- [[Golden Mirror]]\n\n## Notes\n\n- The source alternates between Chloe and Cloe; this page uses Chloe as the normalized name.",
-    "playerText": "# Chloe\n\n## Overview\n\nChloe, spelled Cloe in parts of the source, is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - Date uncertain\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[Burk Vinet]] - likely ritual partner or close associate.\n- [[Albert de Rochas]] - was present through his split from [[The Master]], according to the source.\n\n## Associated Locations\n\n- [[Etoile Polaire Apartments]]\n\n## Associated Documents\n\n- [[Golden Water Lily]]\n- [[Golden Mirror]]\n\n## Notes\n\n- The source alternates between Chloe and Cloe; this page uses Chloe as the normalized name.",
+    "text": "# Chloe\n\n## Overview\n\nChloe is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09 (inferred)\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[Burk Vinet]] - likely ritual partner or close associate.\n- [[Albert de Rochas]] - was present through his split from [[The Master]], according to the source.\n\n## Associated Locations\n\n- [[Etoile Polaire Apartments]]\n\n## Associated Documents\n\n- [[Golden Water Lily]]\n- [[Golden Mirror]]\n\n## Notes\n\n- Canonical archive name: Chloe.",
+    "playerText": "# Chloe\n\n## Overview\n\nChloe is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-08-09 (inferred)\n- [[Newland Van Der Lynden]] - 2021-10-25\n\n## Relationships\n\n- [[Burk Vinet]] - likely ritual partner or close associate.\n- [[Albert de Rochas]] - was present through his split from [[The Master]], according to the source.\n\n## Associated Locations\n\n- [[Etoile Polaire Apartments]]\n\n## Associated Documents\n\n- [[Golden Water Lily]]\n- [[Golden Mirror]]\n\n## Notes\n\n- Canonical archive name: Chloe.",
     "links": [
       "Burk Vinet",
       "Albert de Rochas",
@@ -1556,6 +1556,7 @@
       "Organ-Murders",
       "Paris",
       "Sasha-Kersiki",
+      "Sasha-Kersiki",
       "The-7-Lines-of-the-Fountaine-Family",
       "The-Medical-Case-of-Maribel-Fontaine",
       "The-Medical-Case-of-Maribel-Fontaine",
@@ -2158,17 +2159,19 @@
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
     "slug": "Philippe-Du-Pol",
-    "title": "Philippe Du Pol",
+    "title": "Phillip Du Pol",
     "category": "npc",
     "summary": "",
     "tags": [
       "npc"
     ],
-    "aliases": [],
+    "aliases": [
+      "Philippe Du Pol"
+    ],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Philippe Du Pol\n\n## Overview\n\nPhilippe Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Warton Players]] - researched in connection with Du Pol's version of the play.\n- [[Greek Orthodox Monk]] - provided information on the source tradition.\n\n## Associated Locations\n\n- None named.\n\n## Associated Documents\n\n- [[Sunrise Order King in Yellow Version]]\n- [[The King in Yellow (Performances)]]\n\n## Notes\n\n- The source spells the name Phillip Du Pol; this archive normalizes to Philippe Du Pol but preserves the uncertainty.",
-    "playerText": "# Philippe Du Pol\n\n## Overview\n\nPhilippe Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Warton Players]] - researched in connection with Du Pol's version of the play.\n- [[Greek Orthodox Monk]] - provided information on the source tradition.\n\n## Associated Locations\n\n- None named.\n\n## Associated Documents\n\n- [[Sunrise Order King in Yellow Version]]\n- [[The King in Yellow (Performances)]]\n\n## Notes\n\n- The source spells the name Phillip Du Pol; this archive normalizes to Philippe Du Pol but preserves the uncertainty.",
+    "text": "# Phillip Du Pol\n\n## Overview\n\nPhillip Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Warton Players]] - researched in connection with Du Pol's version of the play.\n- [[Greek Orthodox Monk]] - provided information on the source tradition.\n\n## Associated Locations\n\n- None named.\n\n## Associated Documents\n\n- [[Sunrise Order King in Yellow Version]]\n- [[The King in Yellow (Performances)]]\n\n## Notes\n\n- Canonical archive spelling: Phillip Du Pol.",
+    "playerText": "# Phillip Du Pol\n\n## Overview\n\nPhillip Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Warton Players]] - researched in connection with Du Pol's version of the play.\n- [[Greek Orthodox Monk]] - provided information on the source tradition.\n\n## Associated Locations\n\n- None named.\n\n## Associated Documents\n\n- [[Sunrise Order King in Yellow Version]]\n- [[The King in Yellow (Performances)]]\n\n## Notes\n\n- Canonical archive spelling: Phillip Du Pol.",
     "links": [
       "The King in Yellow (Performances)",
       "Newland Van Der Lynden",
@@ -2178,13 +2181,18 @@
       "The King in Yellow (Performances)"
     ],
     "backlinks": [
+      "Campaign",
       "Greek-Orthodox-Monk",
+      "Newland-Van-Der-Lynden",
+      "Newland-Van-Der-Lynden",
       "Sunrise-Order",
       "Sunrise-Order-King-in-Yellow-Version",
       "Sunrise-Order-King-in-Yellow-Version",
       "The-King-in-Yellow-Performances",
       "The-Warton-Players",
-      "The-Warton-Players"
+      "The-Warton-Players",
+      "Timeline",
+      "Timeline"
     ],
     "keyLinks": []
   },
@@ -2228,8 +2236,8 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Rachel Weissman\n\n## Overview\n\nRachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from Wiseman/Weissman about attending the [[Peqoid Salon]].\n\n## Appears In\n\n- [[Dorian Van Der Lynden]] - 2021-10-18\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Ibroix]] - one person in the Ibroix whose address is tracked down.\n- [[Albert de Rochas]] - linked through Rochas's book and possibly codex ownership.\n\n## Associated Locations\n\n- [[Peqoid Salon]]\n\n## Associated Documents\n\n- [[Vistas Upon an Ocean of Endless Dark]]\n- [[Unidentified Forces by Albert de Rochas]]\n\n## Notes\n\n- The source varies between Wiseman, Wisesman, Weismann, and Weissman. This archive uses Rachel Weissman but marks the spelling as uncertain.",
-    "playerText": "# Rachel Weissman\n\n## Overview\n\nRachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from Wiseman/Weissman about attending the [[Peqoid Salon]].\n\n## Appears In\n\n- [[Dorian Van Der Lynden]] - 2021-10-18\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Ibroix]] - one person in the Ibroix whose address is tracked down.\n- [[Albert de Rochas]] - linked through Rochas's book and possibly codex ownership.\n\n## Associated Locations\n\n- [[Peqoid Salon]]\n\n## Associated Documents\n\n- [[Vistas Upon an Ocean of Endless Dark]]\n- [[Unidentified Forces by Albert de Rochas]]\n\n## Notes\n\n- The source varies between Wiseman, Wisesman, Weismann, and Weissman. This archive uses Rachel Weissman but marks the spelling as uncertain.",
+    "text": "# Rachel Weissman\n\n## Overview\n\nRachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from her about attending the [[Peqoid Salon]].\n\n## Appears In\n\n- [[Dorian Van Der Lynden]] - 2021-10-18\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Ibroix]] - one person in the Ibroix whose address is tracked down.\n- [[Albert de Rochas]] - linked through Rochas's book and possibly codex ownership.\n\n## Associated Locations\n\n- [[Peqoid Salon]]\n\n## Associated Documents\n\n- [[Vistas Upon an Ocean of Endless Dark]]\n- [[Unidentified Forces by Albert de Rochas]]\n\n## Notes\n\n- Canonical archive name: Rachel Weissman.",
+    "playerText": "# Rachel Weissman\n\n## Overview\n\nRachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from her about attending the [[Peqoid Salon]].\n\n## Appears In\n\n- [[Dorian Van Der Lynden]] - 2021-10-18\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[The Ibroix]] - one person in the Ibroix whose address is tracked down.\n- [[Albert de Rochas]] - linked through Rochas's book and possibly codex ownership.\n\n## Associated Locations\n\n- [[Peqoid Salon]]\n\n## Associated Documents\n\n- [[Vistas Upon an Ocean of Endless Dark]]\n- [[Unidentified Forces by Albert de Rochas]]\n\n## Notes\n\n- Canonical archive name: Rachel Weissman.",
     "links": [
       "The Ibroix",
       "Unidentified Forces by Albert de Rochas",
@@ -2315,21 +2323,26 @@
     "campaignId": 7,
     "campaignName": "Black Cats & Neon Lights ",
     "slug": "Sasha-Kersiki",
-    "title": "Sasha Kersiki",
+    "title": "Doctor Sasha Kersiki",
     "category": "npc",
     "summary": "",
     "tags": [
       "npc"
     ],
-    "aliases": [],
+    "aliases": [
+      "Sasha Kersiki",
+      "Doctor Kersiki"
+    ],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Sasha Kersiki\n\n## Overview\n\nSasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain, possibly as Doctor Kersiki\n\n## Relationships\n\n- [[Louis Lepine]] - warned Newland to avoid him.\n- [[Maribel Fontaine]] - Doctor Kersiki operated on Maribel in the medical case; whether Doctor Kersiki and Sasha Kersiki are the same person is likely but not explicitly confirmed by the source.\n\n## Associated Locations\n\n- [[Grand Hotel]]\n- [[Ecole des Beaux-Arts]]\n- [[Hotel-Dieu]]\n\n## Associated Documents\n\n- [[The Medical Case of Maribel Fontaine]]\n\n## Notes\n\n- The archive preserves uncertainty between Sasha Kersiki and Doctor Kersiki.",
-    "playerText": "# Sasha Kersiki\n\n## Overview\n\nSasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours.\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain, possibly as Doctor Kersiki\n\n## Relationships\n\n- [[Louis Lepine]] - warned Newland to avoid him.\n- [[Maribel Fontaine]] - Doctor Kersiki operated on Maribel in the medical case; whether Doctor Kersiki and Sasha Kersiki are the same person is likely but not explicitly confirmed by the source.\n\n## Associated Locations\n\n- [[Grand Hotel]]\n- [[Ecole des Beaux-Arts]]\n- [[Hotel-Dieu]]\n\n## Associated Documents\n\n- [[The Medical Case of Maribel Fontaine]]\n\n## Notes\n\n- The archive preserves uncertainty between Sasha Kersiki and Doctor Kersiki.",
+    "text": "# Doctor Sasha Kersiki\n\n## Overview\n\nDoctor Sasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours. He is also the Doctor Kersiki who operated on [[Maribel Fontaine]] in [[The Medical Case of Maribel Fontaine]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Relationships\n\n- [[Louis Lepine]] - warned Newland to avoid him.\n- [[Maribel Fontaine]] - operated on Maribel in the medical case.\n\n## Associated Locations\n\n- [[Grand Hotel]]\n- [[Ecole des Beaux-Arts]]\n- [[Hotel-Dieu]]\n\n## Associated Documents\n\n- [[The Medical Case of Maribel Fontaine]]\n\n## Notes\n\n- Canonical archive name: Doctor Sasha Kersiki.",
+    "playerText": "# Doctor Sasha Kersiki\n\n## Overview\n\nDoctor Sasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours. He is also the Doctor Kersiki who operated on [[Maribel Fontaine]] in [[The Medical Case of Maribel Fontaine]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Relationships\n\n- [[Louis Lepine]] - warned Newland to avoid him.\n- [[Maribel Fontaine]] - operated on Maribel in the medical case.\n\n## Associated Locations\n\n- [[Grand Hotel]]\n- [[Ecole des Beaux-Arts]]\n- [[Hotel-Dieu]]\n\n## Associated Documents\n\n- [[The Medical Case of Maribel Fontaine]]\n\n## Notes\n\n- Canonical archive name: Doctor Sasha Kersiki.",
     "links": [
       "Louis Lepine",
       "Grand Hotel",
       "Ecole des Beaux-Arts",
+      "Maribel Fontaine",
+      "The Medical Case of Maribel Fontaine",
       "Newland Van Der Lynden",
       "The Medical Case of Maribel Fontaine",
       "Louis Lepine",
@@ -2340,6 +2353,7 @@
       "The Medical Case of Maribel Fontaine"
     ],
     "backlinks": [
+      "Campaign",
       "Ecole-des-Beaux-Arts",
       "Ecole-des-Beaux-Arts",
       "Grand-Hotel",
@@ -2348,8 +2362,14 @@
       "Louis-Lepine",
       "Louis-Lepine",
       "Maribel-Fontaine-Egg",
+      "Newland-Van-Der-Lynden",
+      "Newland-Van-Der-Lynden",
+      "Newland-Van-Der-Lynden",
+      "Newland-Van-Der-Lynden",
       "Organ-Murders",
-      "The-Medical-Case-of-Maribel-Fontaine"
+      "The-Medical-Case-of-Maribel-Fontaine",
+      "Timeline",
+      "Timeline"
     ],
     "keyLinks": []
   },
@@ -2671,6 +2691,7 @@
       "Maribel-Fontaine",
       "Maribel-Fontaine-Egg",
       "Organ-Murders",
+      "Sasha-Kersiki",
       "Sasha-Kersiki",
       "Sasha-Kersiki"
     ],
