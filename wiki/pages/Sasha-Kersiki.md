@@ -6,13 +6,13 @@ summary: ""
 tags:
   - npc
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Sasha Kersiki
   - Doctor Kersiki
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # Doctor Sasha Kersiki

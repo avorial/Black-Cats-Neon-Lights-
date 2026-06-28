@@ -6,11 +6,11 @@ summary: ""
 tags:
   - item
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # Unidentified Forces by Albert de Rochas
