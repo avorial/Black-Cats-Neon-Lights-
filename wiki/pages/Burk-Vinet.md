@@ -21,7 +21,7 @@ Burk Vinet is a head butler loyal to his master. The source distinguishes the re
 
 ## Appears In
 
-- [[Newland Van Der Lynden]] - Date uncertain
+- [[Newland Van Der Lynden]] - 2021-08-09 (inferred)
 - [[Newland Van Der Lynden]] - 2021-10-25
 
 ## Relationships
