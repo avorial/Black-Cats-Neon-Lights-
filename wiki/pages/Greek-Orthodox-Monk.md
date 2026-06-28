@@ -25,8 +25,8 @@ A Greek Orthodox clergyman or monk told Newland about the [[Sunrise Order]] and 
 
 ## Relationships
 
-- [[Sunrise Order]] - preserves or reports church legends about the sect.
-- [[Philippe Du Pol]] - consulted during research into Du Pol's Greek sources.
+- [[Sunrise Order]] - preserves or reports church legends about the group.
+- [[Phillip Du Pol]] - consulted during research into Du Pol's Greek sources.
 
 ## Associated Locations
 
