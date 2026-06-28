@@ -1203,13 +1203,14 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Hotel-Dieu\n\n## Overview\n\nThe hospital where the medical case of [[Maribel Fontaine]] unfolds.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- Maribel was found dead after Doctor Kersiki operated on her.\n- An autopsy found her heart removed and an egg in place of a removed kidney.",
-    "playerText": "# Hotel-Dieu\n\n## Overview\n\nThe hospital where the medical case of [[Maribel Fontaine]] unfolds.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- Maribel was found dead after Doctor Kersiki operated on her.\n- An autopsy found her heart removed and an egg in place of a removed kidney.",
+    "text": "# Hotel-Dieu\n\n## Overview\n\nThe hospital where the medical case of [[Maribel Fontaine]] unfolds.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- Maribel was found dead after [[Doctor Sasha Kersiki]] operated on her.\n- An autopsy found her heart removed and an egg in place of a removed kidney.",
+    "playerText": "# Hotel-Dieu\n\n## Overview\n\nThe hospital where the medical case of [[Maribel Fontaine]] unfolds.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- Maribel was found dead after [[Doctor Sasha Kersiki]] operated on her.\n- An autopsy found her heart removed and an egg in place of a removed kidney.",
     "links": [
       "Maribel Fontaine",
       "The Medical Case of Maribel Fontaine",
       "Maribel Fontaine",
-      "Sasha Kersiki"
+      "Doctor Sasha Kersiki",
+      "Doctor Sasha Kersiki"
     ],
     "backlinks": [
       "Maribel-Fontaine",
@@ -1580,12 +1581,12 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Maribel Fontaine Egg\n\n## Overview\n\nA fist-sized egg found in the place of Maribel Fontaine's removed kidney during autopsy.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- When the egg was raised to the light, something could be seen inside.\n\n## Notes\n\n- The source does not state what was inside the egg.",
-    "playerText": "# Maribel Fontaine Egg\n\n## Overview\n\nA fist-sized egg found in the place of Maribel Fontaine's removed kidney during autopsy.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- When the egg was raised to the light, something could be seen inside.\n\n## Notes\n\n- The source does not state what was inside the egg.",
+    "text": "# Maribel Fontaine Egg\n\n## Overview\n\nA fist-sized egg found in the place of Maribel Fontaine's removed kidney during autopsy.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- When the egg was raised to the light, something could be seen inside.\n\n## Notes\n\n- The source does not state what was inside the egg.",
+    "playerText": "# Maribel Fontaine Egg\n\n## Overview\n\nA fist-sized egg found in the place of Maribel Fontaine's removed kidney during autopsy.\n\n## Appears In\n\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- When the egg was raised to the light, something could be seen inside.\n\n## Notes\n\n- The source does not state what was inside the egg.",
     "links": [
       "The Medical Case of Maribel Fontaine",
       "Maribel Fontaine",
-      "Sasha Kersiki"
+      "Doctor Sasha Kersiki"
     ],
     "backlinks": [
       "The-Medical-Case-of-Maribel-Fontaine"
@@ -2037,14 +2038,15 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Organ Murders\n\n## Overview\n\nA covered-up string of murders of young women whose organs were taken.\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Louis Lepine]]\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- The gendarmerie have covered up the murders, apparently to avoid panic or looking incompetent.\n- Maribel's later case includes organ removal after Doctor Kersiki's operation.\n\n## Notes\n\n- The source does not confirm that the same perpetrator is responsible for all cases, but the connection is strong enough to track as a major clue.",
-    "playerText": "# Organ Murders\n\n## Overview\n\nA covered-up string of murders of young women whose organs were taken.\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n- [[The Medical Case of Maribel Fontaine]] - Date uncertain\n\n## Connected NPCs\n\n- [[Louis Lepine]]\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- The gendarmerie have covered up the murders, apparently to avoid panic or looking incompetent.\n- Maribel's later case includes organ removal after Doctor Kersiki's operation.\n\n## Notes\n\n- The source does not confirm that the same perpetrator is responsible for all cases, but the connection is strong enough to track as a major clue.",
+    "text": "# Organ Murders\n\n## Overview\n\nA covered-up string of murders of young women whose organs were taken.\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Louis Lepine]]\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- The gendarmerie have covered up the murders, apparently to avoid panic or looking incompetent.\n- Maribel's later case includes organ removal after [[Doctor Sasha Kersiki]]'s operation.\n\n## Notes\n\n- The source does not confirm that the same perpetrator is responsible for all cases, but the connection is strong enough to track as a major clue.",
+    "playerText": "# Organ Murders\n\n## Overview\n\nA covered-up string of murders of young women whose organs were taken.\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Louis Lepine]]\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- The gendarmerie have covered up the murders, apparently to avoid panic or looking incompetent.\n- Maribel's later case includes organ removal after [[Doctor Sasha Kersiki]]'s operation.\n\n## Notes\n\n- The source does not confirm that the same perpetrator is responsible for all cases, but the connection is strong enough to track as a major clue.",
     "links": [
       "Ariel Fontaine",
       "The Medical Case of Maribel Fontaine",
       "Louis Lepine",
       "Maribel Fontaine",
-      "Sasha Kersiki"
+      "Doctor Sasha Kersiki",
+      "Doctor Sasha Kersiki"
     ],
     "backlinks": [
       "Louis-Lepine",
@@ -2359,6 +2361,7 @@
       "Grand-Hotel",
       "Grand-Hotel",
       "Hotel-Dieu",
+      "Hotel-Dieu",
       "Louis-Lepine",
       "Louis-Lepine",
       "Maribel-Fontaine-Egg",
@@ -2367,6 +2370,9 @@
       "Newland-Van-Der-Lynden",
       "Newland-Van-Der-Lynden",
       "Organ-Murders",
+      "Organ-Murders",
+      "The-Medical-Case-of-Maribel-Fontaine",
+      "The-Medical-Case-of-Maribel-Fontaine",
       "The-Medical-Case-of-Maribel-Fontaine",
       "Timeline",
       "Timeline"
@@ -2673,15 +2679,17 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# The Medical Case of Maribel Fontaine\n\n## Overview\n\nA medical handout describing [[Maribel Fontaine]]'s death at [[Hotel-Dieu]], unauthorized surgery by Doctor Kersiki, organ removal, and an egg found inside her body.\n\n## Full Text or Extract\n\nThe investigator returned to Hotel-Dieu after eight days and found Maribel apparently asleep in bed, then realized she was dead. Examination showed surgery wounds not present from the original attack. Someone appeared to have removed organs from her.\n\nHospital staff, cowed by the investigator's authority, said Doctor Kersiki came and operated on her. Because the investigator had operated on Maribel rather than a staff doctor, the staff did not feel authorized to stop him. The body was moved to the morgue for autopsy.\n\nThe autopsy raised more questions than it answered. Maribel's heart had been removed in a way that damaged her lungs, and it made no sense that she was not cold when found. In the place of the kidney previously removed by the investigator, there was a fist-sized egg. When raised to the light, something could be seen inside it.\n\n## Found By / Connected To\n\n- [[Maribel Fontaine]]\n- [[Hotel-Dieu]]\n\n## Related NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Related Clues\n\n- [[Organ Murders]]\n- [[Maribel Fontaine Egg]]",
-    "playerText": "# The Medical Case of Maribel Fontaine\n\n## Overview\n\nA medical handout describing [[Maribel Fontaine]]'s death at [[Hotel-Dieu]], unauthorized surgery by Doctor Kersiki, organ removal, and an egg found inside her body.\n\n## Full Text or Extract\n\nThe investigator returned to Hotel-Dieu after eight days and found Maribel apparently asleep in bed, then realized she was dead. Examination showed surgery wounds not present from the original attack. Someone appeared to have removed organs from her.\n\nHospital staff, cowed by the investigator's authority, said Doctor Kersiki came and operated on her. Because the investigator had operated on Maribel rather than a staff doctor, the staff did not feel authorized to stop him. The body was moved to the morgue for autopsy.\n\nThe autopsy raised more questions than it answered. Maribel's heart had been removed in a way that damaged her lungs, and it made no sense that she was not cold when found. In the place of the kidney previously removed by the investigator, there was a fist-sized egg. When raised to the light, something could be seen inside it.\n\n## Found By / Connected To\n\n- [[Maribel Fontaine]]\n- [[Hotel-Dieu]]\n\n## Related NPCs\n\n- [[Maribel Fontaine]]\n- [[Sasha Kersiki]]\n\n## Related Clues\n\n- [[Organ Murders]]\n- [[Maribel Fontaine Egg]]",
+    "text": "# The Medical Case of Maribel Fontaine\n\n## Overview\n\nA medical handout describing [[Maribel Fontaine]]'s death at [[Hotel-Dieu]], unauthorized surgery by [[Doctor Sasha Kersiki]], organ removal, and an egg found inside her body. The date is inferred from the surrounding Fontaine investigation material; the source handout itself has no explicit date.\n\n## Full Text or Extract\n\nThe investigator returned to Hotel-Dieu after eight days and found Maribel apparently asleep in bed, then realized she was dead. Examination showed surgery wounds not present from the original attack. Someone appeared to have removed organs from her.\n\nHospital staff, cowed by the investigator's authority, said [[Doctor Sasha Kersiki]] came and operated on her. Because the investigator had operated on Maribel rather than a staff doctor, the staff did not feel authorized to stop him. The body was moved to the morgue for autopsy.\n\nThe autopsy raised more questions than it answered. Maribel's heart had been removed in a way that damaged her lungs, and it made no sense that she was not cold when found. In the place of the kidney previously removed by the investigator, there was a fist-sized egg. When raised to the light, something could be seen inside it.\n\n## Found By / Connected To\n\n- [[Maribel Fontaine]]\n- [[Hotel-Dieu]]\n- 2021-06-28 (inferred)\n\n## Related NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Related Clues\n\n- [[Organ Murders]]\n- [[Maribel Fontaine Egg]]",
+    "playerText": "# The Medical Case of Maribel Fontaine\n\n## Overview\n\nA medical handout describing [[Maribel Fontaine]]'s death at [[Hotel-Dieu]], unauthorized surgery by [[Doctor Sasha Kersiki]], organ removal, and an egg found inside her body. The date is inferred from the surrounding Fontaine investigation material; the source handout itself has no explicit date.\n\n## Full Text or Extract\n\nThe investigator returned to Hotel-Dieu after eight days and found Maribel apparently asleep in bed, then realized she was dead. Examination showed surgery wounds not present from the original attack. Someone appeared to have removed organs from her.\n\nHospital staff, cowed by the investigator's authority, said [[Doctor Sasha Kersiki]] came and operated on her. Because the investigator had operated on Maribel rather than a staff doctor, the staff did not feel authorized to stop him. The body was moved to the morgue for autopsy.\n\nThe autopsy raised more questions than it answered. Maribel's heart had been removed in a way that damaged her lungs, and it made no sense that she was not cold when found. In the place of the kidney previously removed by the investigator, there was a fist-sized egg. When raised to the light, something could be seen inside it.\n\n## Found By / Connected To\n\n- [[Maribel Fontaine]]\n- [[Hotel-Dieu]]\n- 2021-06-28 (inferred)\n\n## Related NPCs\n\n- [[Maribel Fontaine]]\n- [[Doctor Sasha Kersiki]]\n\n## Related Clues\n\n- [[Organ Murders]]\n- [[Maribel Fontaine Egg]]",
     "links": [
       "Maribel Fontaine",
       "Hotel-Dieu",
+      "Doctor Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Maribel Fontaine",
       "Hotel-Dieu",
       "Maribel Fontaine",
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Organ Murders",
       "Maribel Fontaine Egg"
     ],
