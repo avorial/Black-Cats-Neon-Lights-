@@ -21,14 +21,14 @@ The hospital where the medical case of [[Maribel Fontaine]] unfolds.
 
 ## Appears In
 
-- [[The Medical Case of Maribel Fontaine]] - Date uncertain
+- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)
 
 ## Connected NPCs
 
 - [[Maribel Fontaine]]
-- [[Sasha Kersiki]]
+- [[Doctor Sasha Kersiki]]
 
 ## Important Events
 
-- Maribel was found dead after Doctor Kersiki operated on her.
+- Maribel was found dead after [[Doctor Sasha Kersiki]] operated on her.
 - An autopsy found her heart removed and an egg in place of a removed kidney.
