@@ -21,7 +21,7 @@ Lucien Valadin is sought at [[Le Soleil d'Or]] during the investigation recorded
 
 ## Appears In
 
-- [[From the Sun Comes Shadows]] - Date uncertain
+- [[From the Sun Comes Shadows]] - 2021-08-09 (inferred)
 
 ## Relationships
 
