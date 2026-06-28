@@ -5,13 +5,13 @@ name: Phillip Du Pol
 summary: ""
 tags:
   - npc
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases:
   - Philippe Du Pol
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # Phillip Du Pol

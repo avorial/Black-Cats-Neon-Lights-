@@ -5,12 +5,12 @@ name: From the Sun Comes Shadows
 summary: ""
 tags:
   - item
-visibility: gm
+visibility: players
 approvalStatus: approved
-knownToPlayers: false
+knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas via bulk edit
 ---
 
 # From the Sun Comes Shadows
