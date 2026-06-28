@@ -1,22 +1,29 @@
 name: "Black Cats & Neon Lights "
-gameType: "The King in Yellow RPG"
+gameType: The King in Yellow RPG
 categories:
-  - Characters
-  - NPCs
-  - Organizations
-  - Species
-  - Locations
-  - Items
-  - Events
-  - Lore
-  - Games
+  - id: character
+    label: Characters
+  - id: npc
+    label: NPCs
+  - id: organization
+    label: Organizations
+  - id: location
+    label: Locations
+  - id: item
+    label: Items
+  - id: event
+    label: Events
+  - id: lore
+    label: Lore
+  - id: game
+    label: Games
 visibility:
   default: gm
 approvals:
   aiDefault: unapproved
 theme:
-  preset: "horror"
+  preset: horror
   accent: "#d4a957"
   accent2: "#a075ff"
-  displayFont: "Fraunces"
+  displayFont: Fraunces
   banner: ""
