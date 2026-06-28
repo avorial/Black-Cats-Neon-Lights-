@@ -30,12 +30,12 @@ A contact reports a third performance: a dress rehearsal before the opening, not
 ## Found By / Connected To
 
 - [[Molly]] - 2021-10-25
-- [[Regina Wentworth]] - Date uncertain
+- [[Regina Wentworth]] - 2021-06-28 (inferred)
 - [[Newland Van Der Lynden]] - 2021-12-13
 
 ## Related NPCs
 
-- [[Philippe Du Pol]]
+- [[Phillip Du Pol]]
 - [[Jean-Leon Gerome]]
 - [[Duc de Roudier]]
 
