@@ -1,7 +1,7 @@
 ---
 category: npc
 type: npc
-name: Sasha Kersiki
+name: Doctor Sasha Kersiki
 summary: ""
 tags:
   - npc
@@ -9,25 +9,27 @@ visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
-aliases: []
+aliases:
+  - Sasha Kersiki
+  - Doctor Kersiki
 lastEditedBy: AI via MCP
 ---
 
-# Sasha Kersiki
+# Doctor Sasha Kersiki
 
 ## Overview
 
-Sasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours.
+Doctor Sasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine]]'s warning. He resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours. He is also the Doctor Kersiki who operated on [[Maribel Fontaine]] in [[The Medical Case of Maribel Fontaine]].
 
 ## Appears In
 
 - [[Newland Van Der Lynden]] - 2021-12-13
-- [[The Medical Case of Maribel Fontaine]] - Date uncertain, possibly as Doctor Kersiki
+- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)
 
 ## Relationships
 
 - [[Louis Lepine]] - warned Newland to avoid him.
-- [[Maribel Fontaine]] - Doctor Kersiki operated on Maribel in the medical case; whether Doctor Kersiki and Sasha Kersiki are the same person is likely but not explicitly confirmed by the source.
+- [[Maribel Fontaine]] - operated on Maribel in the medical case.
 
 ## Associated Locations
 
@@ -41,4 +43,4 @@ Sasha Kersiki is a suspicious figure Newland investigates despite [[Louis Lepine
 
 ## Notes
 
-- The archive preserves uncertainty between Sasha Kersiki and Doctor Kersiki.
+- Canonical archive name: Doctor Sasha Kersiki.
