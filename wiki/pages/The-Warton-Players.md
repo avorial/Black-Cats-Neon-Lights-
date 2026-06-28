@@ -17,7 +17,7 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-The Warton Players performed [[The King in Yellow (Performances)]] twice in 1870 and are tied to later questions about [[Jean-Leon Gerome]], [[Philippe Du Pol]], and possible doubles or stand-ins.
+The Warton Players performed [[The King in Yellow (Performances)]] twice in 1870 and are tied to later questions about [[Jean-Leon Gerome]], [[Phillip Du Pol]], and possible doubles or stand-ins.
 
 ## Appears In
 
@@ -28,7 +28,7 @@ The Warton Players performed [[The King in Yellow (Performances)]] twice in 1870
 ## Relationships
 
 - [[Jean-Leon Gerome]] - suspected appearances are disputed by evidence.
-- [[Philippe Du Pol]] - connected to research into a version of the play.
+- [[Phillip Du Pol]] - connected to research into a version of the play.
 
 ## Associated Locations
 
