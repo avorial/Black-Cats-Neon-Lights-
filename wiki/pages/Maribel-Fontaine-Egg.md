@@ -21,12 +21,12 @@ A fist-sized egg found in the place of Maribel Fontaine's removed kidney during 
 
 ## Appears In
 
-- [[The Medical Case of Maribel Fontaine]] - Date uncertain
+- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)
 
 ## Connected NPCs
 
 - [[Maribel Fontaine]]
-- [[Sasha Kersiki]]
+- [[Doctor Sasha Kersiki]]
 
 ## Important Events
 
