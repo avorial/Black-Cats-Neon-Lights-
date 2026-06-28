@@ -55,6 +55,36 @@ Newland investigated [[Kaladi Bedur]], [[Louise Weber]], trunk runes, the [[Vill
 #### Source
 - `008 - Downtimes for Newland 8-9-21.md`
 
+### 2021-08-09 (inferred)
+
+#### Summary
+Newland investigated [[Le Soleil d'Or]] and the real [[Burk Vinet]], distinguishing him from a Red Knight shapeshifted mask. This date is inferred as an early Newland downtime near the other August investigation material; the source file itself has no explicit date.
+
+#### People
+- [[Burk Vinet]]
+- [[Chloe]]
+
+#### Places
+- [[Le Soleil d'Or]]
+
+#### Documents
+- None named.
+
+#### Clues and Discoveries
+- [[Le Soleil d'Or]] hosted occultists and societies; about a year earlier a conflict between cults produced curses and losses among members.
+- Loan sharks prey on unlucky patrons there.
+- The poetry at Le Soleil d'Or seems unusually strong and mood-reflective, perhaps because of magic inspiring performers.
+- The Burk seen in the first half of the prior game was not Burk but a shapeshanged mask of the man in red.
+- The real Burk is hiding something out of honor and loyalty to his master rather than clear malice.
+- Burk is definitely in a cult, likely doing rituals with [[Chloe]], but those rituals do not seem harmful from the source.
+
+#### Open Threads
+- What cult is Burk part of?
+- What remains physically searchable at [[Le Soleil d'Or]]?
+
+#### Source
+- `011 - Downtimes for Newland.md`
+
 ### 2021-10-11
 
 #### Summary
@@ -123,12 +153,12 @@ Newland investigated [[Marcel Proust]], the relationship between [[Albert de Roc
 ### 2021-12-13
 
 #### Summary
-Newland experimented with [[Crystal Shards from the Ibroix]], investigated [[Kaladi Bedur]] leadership, researched [[Sasha Kersiki]], followed up on [[Philippe Du Pol]] and the [[The Warton Players]], and questioned [[Jean-Leon Gerome]]'s connection to [[Dulcinea Fontaine]].
+Newland experimented with [[Crystal Shards from the Ibroix]], investigated [[Kaladi Bedur]] leadership, researched [[Doctor Sasha Kersiki]], followed up on [[Phillip Du Pol]] and the [[The Warton Players]], and questioned [[Jean-Leon Gerome]]'s connection to [[Dulcinea Fontaine]].
 
 #### People
-- [[Sasha Kersiki]]
+- [[Doctor Sasha Kersiki]]
 - [[Louis Lepine]]
-- [[Philippe Du Pol]]
+- [[Phillip Du Pol]]
 - [[Jean-Leon Gerome]]
 - [[Dulcinea Fontaine]]
 - [[Rachel Weissman]]
@@ -150,7 +180,7 @@ Newland experimented with [[Crystal Shards from the Ibroix]], investigated [[Kal
 - Absinthe insight suggested that centuries ago Corsica suffered a ritual similar to the Paris-Carcosa ritual: part of Corsica went to Carcosa, and part of Carcosa came to Corsica.
 - The crystals are from mines of Carcosa that moved into this world.
 - [[Kaladi Bedur]] is publicly criminal, known for assassinations, kidnappings, and blackmail.
-- [[Sasha Kersiki]] resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours.
+- [[Doctor Sasha Kersiki]] resides at the [[Grand Hotel]], uses multiple names and disguises, and has been seen at [[Ecole des Beaux-Arts]] at odd hours.
 - A Greek Orthodox monk described the [[Sunrise Order]], a heretical sect whose visions produced a King in Yellow-like text.
 - Gerome thinks Dulcinea may have become pregnant; he appears not to be part of occult happenings at the school.
 - Newland found no connection between Gerome and Dulcinea's predicament beyond limited prior contact.
@@ -158,38 +188,8 @@ Newland experimented with [[Crystal Shards from the Ibroix]], investigated [[Kal
 #### Open Threads
 - What practical limits govern the crystal light's power over death and pain?
 - Is the Corsica/Carcosa name similarity a surviving echo of the old ritual?
-- What is [[Sasha Kersiki]] doing at the art school?
+- What is [[Doctor Sasha Kersiki]] doing at the art school?
 - What is the relationship between the Sunrise Order text and later King in Yellow performances?
 
 #### Source
 - `000 - Downtimes for Newland 12-13-21.md`
-
-### Date uncertain
-
-#### Summary
-Newland investigated [[Le Soleil d'Or]] and the real [[Burk Vinet]], distinguishing him from a Red Knight shapeshifted mask.
-
-#### People
-- [[Burk Vinet]]
-- [[Chloe]]
-
-#### Places
-- [[Le Soleil d'Or]]
-
-#### Documents
-- None named.
-
-#### Clues and Discoveries
-- [[Le Soleil d'Or]] hosted occultists and societies; about a year earlier a conflict between cults produced curses and losses among members.
-- Loan sharks prey on unlucky patrons there.
-- The poetry at Le Soleil d'Or seems unusually strong and mood-reflective, perhaps because of magic inspiring performers.
-- The Burk seen in the first half of the prior game was not Burk but a shapeshanged mask of the man in red.
-- The real Burk is hiding something out of honor and loyalty to his master rather than clear malice.
-- Burk is definitely in a cult, likely doing rituals with [[Chloe]], but those rituals do not seem harmful from the source.
-
-#### Open Threads
-- What cult is Burk part of?
-- What remains physically searchable at [[Le Soleil d'Or]]?
-
-#### Source
-- `011 - Downtimes for Newland.md`
