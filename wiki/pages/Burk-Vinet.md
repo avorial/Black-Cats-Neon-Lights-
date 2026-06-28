@@ -10,11 +10,12 @@ approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
+parent: Staff
 ---
 
 # Burk Vinet
-
+![Burk Vinet.png](/wiki/media/Burk%20Vinet.png)
 ## Overview
 
 Burk Vinet is a head butler loyal to his master. The source distinguishes the real Burk from a shapeshifted Red Knight mask impersonation.
