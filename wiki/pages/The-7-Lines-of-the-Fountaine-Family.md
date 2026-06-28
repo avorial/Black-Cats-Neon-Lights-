@@ -1,10 +1,10 @@
 ---
-category: lore
-type: lore
+category: clue_mythos
+type: clue_mythos
 name: The 7 Lines of the Fountaine Family
 summary: ""
 tags:
-  - lore
+  - clue_mythos
 visibility: players
 approvalStatus: approved
 knownToPlayers: true

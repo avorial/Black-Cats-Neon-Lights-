@@ -1,10 +1,10 @@
 ---
-category: lore
-type: lore
+category: clue_mythos
+type: clue_mythos
 name: Crystal Lantern Vision
 summary: ""
 tags:
-  - lore
+  - clue_mythos
 visibility: gm
 approvalStatus: approved
 knownToPlayers: false
