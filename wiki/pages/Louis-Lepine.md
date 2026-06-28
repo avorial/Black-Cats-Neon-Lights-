@@ -17,16 +17,16 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-Louis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Sasha Kersiki]].
+Louis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Doctor Sasha Kersiki]].
 
 ## Appears In
 
-- [[Ariel Fontaine]] - Date uncertain
+- [[Ariel Fontaine]] - 2021-06-28 (inferred)
 - [[Newland Van Der Lynden]] - 2021-12-13
 
 ## Relationships
 
-- [[Sasha Kersiki]] - warned Newland to avoid him.
+- [[Doctor Sasha Kersiki]] - warned Newland to avoid him.
 
 ## Associated Locations
 
