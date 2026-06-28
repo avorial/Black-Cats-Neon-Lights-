@@ -13,8 +13,8 @@ categories:
     label: Items
   - id: event
     label: Events
-  - id: lore
-    label: Lore
+  - id: clue_mythos
+    label: Clue/Mythos
   - id: game
     label: Games
   - id: clue_mythos
