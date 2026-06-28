@@ -21,7 +21,7 @@ Maurice Maeterlinck is described as a legitimate, established playwright with ma
 
 ## Appears In
 
-- [[Ariel Fontaine]] - Date uncertain
+- [[Ariel Fontaine]] - 2021-06-28 (inferred)
 
 ## Relationships
 
