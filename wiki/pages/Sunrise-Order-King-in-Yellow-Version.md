@@ -26,12 +26,12 @@ A Greek Orthodox monk told Newland that church legends describe a heretical sect
 ## Found By / Connected To
 
 - [[Newland Van Der Lynden]] - 2021-12-13
-- [[Philippe Du Pol]] research
+- [[Phillip Du Pol]] research
 
 ## Related NPCs
 
 - [[Greek Orthodox Monk]]
-- [[Philippe Du Pol]]
+- [[Phillip Du Pol]]
 
 ## Related Clues
 
