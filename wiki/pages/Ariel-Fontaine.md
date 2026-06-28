@@ -50,10 +50,10 @@ Ariel investigated the Duke, learning that he was widely loathed for arrogance a
 #### Source
 - `009 - Downtimes for Ariel 6-28-21.md`
 
-### Date uncertain
+### 2021-06-28 (inferred)
 
 #### Summary
-Ariel investigated a strange photograph, [[Maribel Fontaine]], occult accounts of a red masked ghost or herald, a covered-up string of murders, and [[Maurice Maeterlinck]].
+Ariel investigated a strange photograph, [[Maribel Fontaine]], occult accounts of a red masked ghost or herald, a covered-up string of murders, and [[Maurice Maeterlinck]]. This is dated by inference from its proximity to Ariel's dated Duke investigation and the shared Fontaine/Duke investigation phase; the source file itself does not state a date.
 
 #### People
 - [[Maribel Fontaine]]
@@ -77,7 +77,7 @@ Ariel investigated a strange photograph, [[Maribel Fontaine]], occult accounts o
 
 #### Open Threads
 - Which figure in the photograph is most reliable, if any?
-- Is the red masked figure empowered costume, avatar, herald, or creature?
+- Is the red masked figure empowered costume, herald, avatar, or creature?
 - What does [[Louis Lepine]] know about the organ murders?
 
 #### Source
