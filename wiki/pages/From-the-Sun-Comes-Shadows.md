@@ -17,7 +17,7 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-An investigation note involving [[Le Soleil d'Or]], [[Lucien Valadin]], [[Pauline]], and a commission delivered by a Serbian-looking messenger.
+An investigation note involving [[Le Soleil d'Or]], [[Lucien Valadin]], [[Pauline]], and a commission delivered by a Serbian-looking messenger. The date is inferred from its Le Soleil d'Or context and nearby early investigation material; the source handout itself has no explicit date.
 
 ## Full Text or Extract
 
@@ -27,7 +27,7 @@ The last time Lucien came in, he met a Serbian-looking man who said he was the m
 
 ## Found By / Connected To
 
-- [[Le Soleil d'Or]]
+- [[Le Soleil d'Or]] - 2021-08-09 (inferred)
 - [[Lucien Valadin]]
 
 ## Related NPCs
