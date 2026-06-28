@@ -55,5 +55,7 @@ King in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This
 ## Import Notes
 
 - Dates were normalized to `YYYY-MM-DD` where filenames or headings gave dates.
-- Entries without a clear date are listed as uncertain.
+- Undated entries use inferred dates where source order and surrounding context made a reasonable placement possible.
+- Inferred dates are marked with `(inferred)`.
+- Canonical normalized names: [[Rachel Weissman]], [[Chloe]], [[Phillip Du Pol]], and [[Doctor Sasha Kersiki]].
 - The archive preserves ambiguity around identities, doubles, cult affiliations, and supernatural mechanisms.
