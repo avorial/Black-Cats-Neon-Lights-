@@ -17,7 +17,7 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-Dorian Van Der Lynden is connected to occult correspondence and the group's wider investigations. The downtime source only records his attempt to contact [[Rachel Weissman]]. Molly's later notes also mention Dorian in connection with being consumed by a Red Knight role or force, but the source leaves that mechanism uncertain.
+Dorian Van Der Lynden is connected to occult correspondence and the group's wider investigations. The downtime source records his attempt to contact [[Rachel Weissman]]. Molly's later notes also mention Dorian in connection with being consumed by a Red Knight role or force, but the source leaves that mechanism uncertain.
 
 ## Downtime Timeline
 
@@ -41,7 +41,6 @@ Dorian contacted [[Rachel Weissman]]. She replied that she would attend the [[Pe
 
 #### Open Threads
 - What does [[Rachel Weissman]] know?
-- Is she the same Wiseman/Wisesman referred to elsewhere in the source? This spelling is uncertain.
 
 #### Source
 - `006 - Downtimes for Dorian  10-18-21.md`
