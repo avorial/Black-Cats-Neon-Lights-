@@ -1,7 +1,7 @@
 ---
 category: npc
 type: npc
-name: Philippe Du Pol
+name: Phillip Du Pol
 summary: ""
 tags:
   - npc
@@ -9,15 +9,16 @@ visibility: gm
 approvalStatus: unapproved
 knownToPlayers: false
 keyLinks: []
-aliases: []
+aliases:
+  - Philippe Du Pol
 lastEditedBy: AI via MCP
 ---
 
-# Philippe Du Pol
+# Phillip Du Pol
 
 ## Overview
 
-Philippe Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.
+Phillip Du Pol is connected to a version of [[The King in Yellow (Performances)]] and Greek sources that Newland investigated through a Greek Orthodox clergyman.
 
 ## Appears In
 
@@ -39,4 +40,4 @@ Philippe Du Pol is connected to a version of [[The King in Yellow (Performances)
 
 ## Notes
 
-- The source spells the name Phillip Du Pol; this archive normalizes to Philippe Du Pol but preserves the uncertainty.
+- Canonical archive spelling: Phillip Du Pol.
