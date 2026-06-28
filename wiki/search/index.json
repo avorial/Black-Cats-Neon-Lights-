@@ -276,8 +276,8 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Campaign\n\n## Overview\n\nKing in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This page indexes the cleaned downtime import and preserves the source as a readable retrospective reference.\n\n## Source\n\n- Source requested: `006 - Players Downtimes.zip`\n- Working source located in Downloads: `Downtime_Markdown.zip`\n- Related uploaded archive present: `The Yellow King ~ Black Cats & Neon Lights.zip`\n\n## Player Characters\n\n- [[Ariel Fontaine]]\n- [[Dorian Van Der Lynden]]\n- [[Herman]]\n- [[Molly]]\n- [[Newland Van Der Lynden]]\n- [[Regina Wentworth]]\n\n## Core References\n\n- [[Timeline]]\n- [[The King in Yellow (Performances)]]\n- [[Unidentified Forces by Albert de Rochas]]\n- [[From the Sun Comes Shadows]]\n- [[The Medical Case of Maribel Fontaine]]\n\n## Major Threads\n\n- [[The Red Knight]]\n- [[Carcosan Absinthe]]\n- [[Crystal Shards from the Ibroix]]\n- [[Kaladi Bedur]]\n- [[The Ibroix]]\n- [[The Warton Players]]\n- [[Carcosa]]\n\n## Import Notes\n\n- Dates were normalized to `YYYY-MM-DD` where filenames or headings gave dates.\n- Entries without a clear date are listed as uncertain.\n- The archive preserves ambiguity around identities, doubles, cult affiliations, and supernatural mechanisms.",
-    "playerText": "# Campaign\n\n## Overview\n\nKing in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This page indexes the cleaned downtime import and preserves the source as a readable retrospective reference.\n\n## Source\n\n- Source requested: `006 - Players Downtimes.zip`\n- Working source located in Downloads: `Downtime_Markdown.zip`\n- Related uploaded archive present: `The Yellow King ~ Black Cats & Neon Lights.zip`\n\n## Player Characters\n\n- [[Ariel Fontaine]]\n- [[Dorian Van Der Lynden]]\n- [[Herman]]\n- [[Molly]]\n- [[Newland Van Der Lynden]]\n- [[Regina Wentworth]]\n\n## Core References\n\n- [[Timeline]]\n- [[The King in Yellow (Performances)]]\n- [[Unidentified Forces by Albert de Rochas]]\n- [[From the Sun Comes Shadows]]\n- [[The Medical Case of Maribel Fontaine]]\n\n## Major Threads\n\n- [[The Red Knight]]\n- [[Carcosan Absinthe]]\n- [[Crystal Shards from the Ibroix]]\n- [[Kaladi Bedur]]\n- [[The Ibroix]]\n- [[The Warton Players]]\n- [[Carcosa]]\n\n## Import Notes\n\n- Dates were normalized to `YYYY-MM-DD` where filenames or headings gave dates.\n- Entries without a clear date are listed as uncertain.\n- The archive preserves ambiguity around identities, doubles, cult affiliations, and supernatural mechanisms.",
+    "text": "# Campaign\n\n## Overview\n\nKing in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This page indexes the cleaned downtime import and preserves the source as a readable retrospective reference.\n\n## Source\n\n- Source requested: `006 - Players Downtimes.zip`\n- Working source located in Downloads: `Downtime_Markdown.zip`\n- Related uploaded archive present: `The Yellow King ~ Black Cats & Neon Lights.zip`\n\n## Player Characters\n\n- [[Ariel Fontaine]]\n- [[Dorian Van Der Lynden]]\n- [[Herman]]\n- [[Molly]]\n- [[Newland Van Der Lynden]]\n- [[Regina Wentworth]]\n\n## Core References\n\n- [[Timeline]]\n- [[The King in Yellow (Performances)]]\n- [[Unidentified Forces by Albert de Rochas]]\n- [[From the Sun Comes Shadows]]\n- [[The Medical Case of Maribel Fontaine]]\n\n## Major Threads\n\n- [[The Red Knight]]\n- [[Carcosan Absinthe]]\n- [[Crystal Shards from the Ibroix]]\n- [[Kaladi Bedur]]\n- [[The Ibroix]]\n- [[The Warton Players]]\n- [[Carcosa]]\n\n## Import Notes\n\n- Dates were normalized to `YYYY-MM-DD` where filenames or headings gave dates.\n- Undated entries use inferred dates where source order and surrounding context made a reasonable placement possible.\n- Inferred dates are marked with `(inferred)`.\n- Canonical normalized names: [[Rachel Weissman]], [[Chloe]], [[Phillip Du Pol]], and [[Doctor Sasha Kersiki]].\n- The archive preserves ambiguity around identities, doubles, cult affiliations, and supernatural mechanisms.",
+    "playerText": "# Campaign\n\n## Overview\n\nKing in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This page indexes the cleaned downtime import and preserves the source as a readable retrospective reference.\n\n## Source\n\n- Source requested: `006 - Players Downtimes.zip`\n- Working source located in Downloads: `Downtime_Markdown.zip`\n- Related uploaded archive present: `The Yellow King ~ Black Cats & Neon Lights.zip`\n\n## Player Characters\n\n- [[Ariel Fontaine]]\n- [[Dorian Van Der Lynden]]\n- [[Herman]]\n- [[Molly]]\n- [[Newland Van Der Lynden]]\n- [[Regina Wentworth]]\n\n## Core References\n\n- [[Timeline]]\n- [[The King in Yellow (Performances)]]\n- [[Unidentified Forces by Albert de Rochas]]\n- [[From the Sun Comes Shadows]]\n- [[The Medical Case of Maribel Fontaine]]\n\n## Major Threads\n\n- [[The Red Knight]]\n- [[Carcosan Absinthe]]\n- [[Crystal Shards from the Ibroix]]\n- [[Kaladi Bedur]]\n- [[The Ibroix]]\n- [[The Warton Players]]\n- [[Carcosa]]\n\n## Import Notes\n\n- Dates were normalized to `YYYY-MM-DD` where filenames or headings gave dates.\n- Undated entries use inferred dates where source order and surrounding context made a reasonable placement possible.\n- Inferred dates are marked with `(inferred)`.\n- Canonical normalized names: [[Rachel Weissman]], [[Chloe]], [[Phillip Du Pol]], and [[Doctor Sasha Kersiki]].\n- The archive preserves ambiguity around identities, doubles, cult affiliations, and supernatural mechanisms.",
     "links": [
       "Ariel Fontaine",
       "Dorian Van Der Lynden",
@@ -296,7 +296,11 @@
       "Kaladi Bedur",
       "The Ibroix",
       "The Warton Players",
-      "Carcosa"
+      "Carcosa",
+      "Rachel Weissman",
+      "Chloe",
+      "Phillip Du Pol",
+      "Doctor Sasha Kersiki"
     ],
     "backlinks": [],
     "keyLinks": []
@@ -476,6 +480,7 @@
     ],
     "backlinks": [
       "Burk-Vinet",
+      "Campaign",
       "Carcosan-Absinthe",
       "Etoile-Polaire-Apartments",
       "Golden-Mirror",
@@ -2245,6 +2250,7 @@
     ],
     "backlinks": [
       "Albert-de-Rochas",
+      "Campaign",
       "Crystal-Shards-from-the-Ibroix",
       "Dorian-Van-Der-Lynden",
       "Dorian-Van-Der-Lynden",
