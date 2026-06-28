@@ -21,19 +21,19 @@ A covered-up string of murders of young women whose organs were taken.
 
 ## Appears In
 
-- [[Ariel Fontaine]] - Date uncertain
-- [[The Medical Case of Maribel Fontaine]] - Date uncertain
+- [[Ariel Fontaine]] - 2021-06-28 (inferred)
+- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)
 
 ## Connected NPCs
 
 - [[Louis Lepine]]
 - [[Maribel Fontaine]]
-- [[Sasha Kersiki]]
+- [[Doctor Sasha Kersiki]]
 
 ## Important Events
 
 - The gendarmerie have covered up the murders, apparently to avoid panic or looking incompetent.
-- Maribel's later case includes organ removal after Doctor Kersiki's operation.
+- Maribel's later case includes organ removal after [[Doctor Sasha Kersiki]]'s operation.
 
 ## Notes
 
