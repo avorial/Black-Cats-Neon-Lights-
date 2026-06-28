@@ -2,121 +2,50 @@
 category: character
 type: character
 name: Regina Wentworth
-summary: Custom character sheet template.
+summary: ""
 tags:
-  - pc
   - character
-  - sheet
-visibility: players
-approvalStatus: approved
-knownToPlayers: true
+visibility: gm
+approvalStatus: unapproved
+knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas
+lastEditedBy: AI via MCP
 ---
 
 # Regina Wentworth
 
-![portrait](/wiki/media/Regina-Wentworth.jpg)
+## Overview
 
+Regina Wentworth's downtime uses fashion and social research to identify supernatural evidence around old shoes and to connect the [[Duc de Roudier]] to Cassilda, [[Ecole des Beaux-Arts]], and [[The King in Yellow (Performances)]].
 
+## Downtime Timeline
 
-*A charismatic muse driven by the pursuit of inspiration, convinced that only by experiencing every facet of life can true understanding be found.*
+### Date uncertain
 
----
+#### Summary
+Regina examined shoes and researched the [[Duc de Roudier]]. The shoes were handmade, classic or expertly made, and made from materials at least a century old. She learned that the Duke financed Cassilda almost completely and that his family supported students at [[Ecole des Beaux-Arts]] for the last performance of [[The King in Yellow (Performances)]].
 
-## Character Overview
+#### People
+- [[Duc de Roudier]]
 
-**Name:** Regina Wentworth  
-**Role:** Muse
+#### Places
+- [[Chateau de Roudier]]
+- [[Ecole des Beaux-Arts]]
 
----
+#### Documents
+- [[The King in Yellow (Performances)]]
 
-## Investigative Kit
+#### Clues and Discoveries
+- The shoes are solid proof that the cause was not a member of the house and was likely supernatural.
+- The Duke is informally known as the Duke and lives at [[Chateau de Roudier]] outside the city.
+- The Duke financed Cassilda almost completely.
+- The family gave a grant to Ecole students to make the last performance of The King in Yellow.
+- Many people who claim to have seen him did not see his face; they saw him leaving parties or watching performances from curtained private boxes.
 
-**Field: Muse**
+#### Open Threads
+- Who or what wore the old shoes?
+- Why is the Duke's face so consistently unseen?
 
-### Investigative Abilities
-
-- Bonhomie
-- Culture
-- Inspiration
-- Miscellany
-
-### General Kit
-
-**Cool Customer**
-
-You remain composed under pressure, keeping your emotions in check even when others begin to panic.
-
----
-
-## General Abilities
-
-| Ability | Rating |
-|---------|------:|
-| Athletics | 4 |
-| Composure | 6 |
-| Fighting | 6 |
-| First Aid | 0 |
-| Health (HP) | 3 |
-| Mechanics | 2 |
-| Riding | 2 |
-| Sense Trouble | 4 |
-| Sneaking | 2 |
-| Preparedness | 4 |
-
-### Additional Talents
-
-- Fashion
-- Society
-
----
-
-## Drive
-
-### Seeker
-
-> "To understand life, I must experience all of it, including its extremes."
-
----
-
-## Relationships
-
-### I Rely On
-
-**Dorian Van Der Lynden (Josh)**
-
-When things spiral beyond your control, Dorian is someone you instinctively turn toward.
-
-**Newland Van Der Lynden (Michael)**
-
-Newland's calm demeanor provides a welcome sense of stability when events become overwhelming.
-
----
-
-### I Seek to Protect
-
-**Ariel Fontaine (Carla)**
-
-Something about Ariel brings out your protective instincts. Whether from innocence, vulnerability, or simple affection, you feel compelled to keep her from the darker corners of the world.
-
----
-
-## That Deuced Peculiar Business
-
-One evening, while out drinking absinthe with friends, the night took an unforgettable turn.
-
-The group wandered into an exclusive underground club devoted to sadomasochistic performances. What began as decadent entertainment became something impossible.
-
-You watched as a man calmly cut open a woman's chest, removed her still-beating heart, and bit into it.
-
-Then everything went black.
-
-You awoke the next morning in your own bed with no memory of how you had returned home.
-
-Unable to shake the experience, you later retraced your steps and found the building where the club had been.
-
-It was closed.
-
-There was no sign that it had ever hosted anyone at all.
+#### Source
+- `010 - Downtimes for Regina Wentworth.md`

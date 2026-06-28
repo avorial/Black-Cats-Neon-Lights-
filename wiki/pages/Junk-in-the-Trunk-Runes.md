@@ -1,0 +1,36 @@
+---
+category: lore
+type: lore
+name: Junk in the Trunk Runes
+summary: ""
+tags:
+  - lore
+visibility: gm
+approvalStatus: unapproved
+knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: AI via MCP
+---
+
+# Junk in the Trunk Runes
+
+## Overview
+
+Arcane runes from the trunk that form a pictorial language. Newland can translate some common symbols.
+
+## Appears In
+
+- [[Newland Van Der Lynden]] - 2021-08-09
+
+## Connected NPCs
+
+- None named.
+
+## Important Events
+
+- Parts of the translated runes resemble phrases heard in the opera.
+
+## Notes
+
+- The full translation is not present in the source.

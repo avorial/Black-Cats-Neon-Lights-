@@ -1,0 +1,36 @@
+---
+category: lore
+type: lore
+name: Crystal Lantern Vision
+summary: ""
+tags:
+  - lore
+visibility: gm
+approvalStatus: unapproved
+knownToPlayers: false
+keyLinks: []
+aliases: []
+lastEditedBy: AI via MCP
+---
+
+# Crystal Lantern Vision
+
+## Overview
+
+A prophetic image drawn by [[Herman]] of a lantern with crystal-focused light shining on a strapped-down man.
+
+## Appears In
+
+- [[Herman]] - 2021-10-25
+
+## Connected NPCs
+
+- [[Herman]]
+
+## Important Events
+
+- The vision predates or foreshadows later crystal-light experiments by [[Newland Van Der Lynden]].
+
+## Notes
+
+- The source does not identify the strapped-down man.
