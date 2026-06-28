@@ -17,7 +17,7 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-Rachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from Wiseman/Weissman about attending the [[Peqoid Salon]].
+Rachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by Albert de Rochas]] and may hold a copy of [[Vistas Upon an Ocean of Endless Dark]]. Dorian receives a reply from her about attending the [[Peqoid Salon]].
 
 ## Appears In
 
@@ -41,4 +41,4 @@ Rachel Weissman is tied to the [[The Ibroix]] through [[Unidentified Forces by A
 
 ## Notes
 
-- The source varies between Wiseman, Wisesman, Weismann, and Weissman. This archive uses Rachel Weissman but marks the spelling as uncertain.
+- Canonical archive name: Rachel Weissman.
