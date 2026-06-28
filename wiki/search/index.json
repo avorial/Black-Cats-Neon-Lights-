@@ -790,11 +790,11 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Ecole des Beaux-Arts\n\n## Overview\n\nThe art school is tied to [[Dulcinea Fontaine]], odd sightings of [[Sasha Kersiki]], supernatural events around [[Jean-Leon Gerome]], and funding for the last performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[Regina Wentworth]] - Date uncertain\n\n## Connected NPCs\n\n- [[Dulcinea Fontaine]]\n- [[Jean-Leon Gerome]]\n- [[Sasha Kersiki]]\n- [[Duc de Roudier]]\n\n## Important Events\n\n- Dulcinea stayed there while preparations continued around the clock.\n- Sasha was seen there at odd hours.\n- The Roudier family gave a grant to students for the last King in Yellow performance.",
-    "playerText": "# Ecole des Beaux-Arts\n\n## Overview\n\nThe art school is tied to [[Dulcinea Fontaine]], odd sightings of [[Sasha Kersiki]], supernatural events around [[Jean-Leon Gerome]], and funding for the last performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[Regina Wentworth]] - Date uncertain\n\n## Connected NPCs\n\n- [[Dulcinea Fontaine]]\n- [[Jean-Leon Gerome]]\n- [[Sasha Kersiki]]\n- [[Duc de Roudier]]\n\n## Important Events\n\n- Dulcinea stayed there while preparations continued around the clock.\n- Sasha was seen there at odd hours.\n- The Roudier family gave a grant to students for the last King in Yellow performance.",
+    "text": "# Ecole des Beaux-Arts\n\n## Overview\n\nThe art school is tied to [[Dulcinea Fontaine]], odd sightings of [[Doctor Sasha Kersiki]], supernatural events around [[Jean-Leon Gerome]], and funding for the last performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[Regina Wentworth]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Dulcinea Fontaine]]\n- [[Jean-Leon Gerome]]\n- [[Doctor Sasha Kersiki]]\n- [[Duc de Roudier]]\n\n## Important Events\n\n- Dulcinea stayed there while preparations continued around the clock.\n- Doctor Sasha Kersiki was seen there at odd hours.\n- The Roudier family gave a grant to students for the last King in Yellow performance.",
+    "playerText": "# Ecole des Beaux-Arts\n\n## Overview\n\nThe art school is tied to [[Dulcinea Fontaine]], odd sightings of [[Doctor Sasha Kersiki]], supernatural events around [[Jean-Leon Gerome]], and funding for the last performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-10-11\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[Regina Wentworth]] - 2021-06-28 (inferred)\n\n## Connected NPCs\n\n- [[Dulcinea Fontaine]]\n- [[Jean-Leon Gerome]]\n- [[Doctor Sasha Kersiki]]\n- [[Duc de Roudier]]\n\n## Important Events\n\n- Dulcinea stayed there while preparations continued around the clock.\n- Doctor Sasha Kersiki was seen there at odd hours.\n- The Roudier family gave a grant to students for the last King in Yellow performance.",
     "links": [
       "Dulcinea Fontaine",
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Jean-Leon Gerome",
       "The King in Yellow (Performances)",
       "Newland Van Der Lynden",
@@ -802,7 +802,7 @@
       "Regina Wentworth",
       "Dulcinea Fontaine",
       "Jean-Leon Gerome",
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Duc de Roudier"
     ],
     "backlinks": [
@@ -1083,14 +1083,14 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Grand Hotel\n\n## Overview\n\nThe Grand Hotel is associated with [[Sasha Kersiki]] and with the third, rehearsal-like performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The King in Yellow (Performances)]] - Date uncertain\n\n## Connected NPCs\n\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- Sasha Kersiki seems to reside there.\n- A dress rehearsal or third performance of The King in Yellow occurred in the ballroom of Grand Hotel, 12 Boulevard des Capucines.",
-    "playerText": "# Grand Hotel\n\n## Overview\n\nThe Grand Hotel is associated with [[Sasha Kersiki]] and with the third, rehearsal-like performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The King in Yellow (Performances)]] - Date uncertain\n\n## Connected NPCs\n\n- [[Sasha Kersiki]]\n\n## Important Events\n\n- Sasha Kersiki seems to reside there.\n- A dress rehearsal or third performance of The King in Yellow occurred in the ballroom of Grand Hotel, 12 Boulevard des Capucines.",
+    "text": "# Grand Hotel\n\n## Overview\n\nThe Grand Hotel is associated with [[Doctor Sasha Kersiki]] and with the third, rehearsal-like performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The King in Yellow (Performances)]] - 1870 performance history\n\n## Connected NPCs\n\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- Doctor Sasha Kersiki seems to reside there.\n- A dress rehearsal or third performance of The King in Yellow occurred in the ballroom of Grand Hotel, 12 Boulevard des Capucines.",
+    "playerText": "# Grand Hotel\n\n## Overview\n\nThe Grand Hotel is associated with [[Doctor Sasha Kersiki]] and with the third, rehearsal-like performance of [[The King in Yellow (Performances)]].\n\n## Appears In\n\n- [[Newland Van Der Lynden]] - 2021-12-13\n- [[The King in Yellow (Performances)]] - 1870 performance history\n\n## Connected NPCs\n\n- [[Doctor Sasha Kersiki]]\n\n## Important Events\n\n- Doctor Sasha Kersiki seems to reside there.\n- A dress rehearsal or third performance of The King in Yellow occurred in the ballroom of Grand Hotel, 12 Boulevard des Capucines.",
     "links": [
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "The King in Yellow (Performances)",
       "Newland Van Der Lynden",
       "The King in Yellow (Performances)",
-      "Sasha Kersiki"
+      "Doctor Sasha Kersiki"
     ],
     "backlinks": [
       "Newland-Van-Der-Lynden",
@@ -1391,13 +1391,13 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Louis Lepine\n\n## Overview\n\nLouis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Sasha Kersiki]].\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[Sasha Kersiki]] - warned Newland to avoid him.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- [[Organ Murders]]\n\n## Notes\n\n- The source does not show Lepine as complicit in the murders; the cover-up appears official and panic-driven.",
-    "playerText": "# Louis Lepine\n\n## Overview\n\nLouis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Sasha Kersiki]].\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[Sasha Kersiki]] - warned Newland to avoid him.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- [[Organ Murders]]\n\n## Notes\n\n- The source does not show Lepine as complicit in the murders; the cover-up appears official and panic-driven.",
+    "text": "# Louis Lepine\n\n## Overview\n\nLouis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Doctor Sasha Kersiki]].\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[Doctor Sasha Kersiki]] - warned Newland to avoid him.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- [[Organ Murders]]\n\n## Notes\n\n- The source does not show Lepine as complicit in the murders; the cover-up appears official and panic-driven.",
+    "playerText": "# Louis Lepine\n\n## Overview\n\nLouis Lepine is the official through whom information about covered-up murders passes. Newland also references his warning about avoiding [[Doctor Sasha Kersiki]].\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n- [[Newland Van Der Lynden]] - 2021-12-13\n\n## Relationships\n\n- [[Doctor Sasha Kersiki]] - warned Newland to avoid him.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- [[Organ Murders]]\n\n## Notes\n\n- The source does not show Lepine as complicit in the murders; the cover-up appears official and panic-driven.",
     "links": [
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Ariel Fontaine",
       "Newland Van Der Lynden",
-      "Sasha Kersiki",
+      "Doctor Sasha Kersiki",
       "Paris",
       "Organ Murders"
     ],
@@ -1611,8 +1611,8 @@
     "aliases": [],
     "visibility": "gm",
     "approvalStatus": "unapproved",
-    "text": "# Maurice Maeterlinck\n\n## Overview\n\nMaurice Maeterlinck is described as a legitimate, established playwright with many art-scene contacts.\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n\n## Relationships\n\n- Art scene contacts - not individually named.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- None named.\n\n## Notes\n\n- Ariel's source frames him as part of an older, famous artistic crowd rather than the up-and-coming circle of the player characters.",
-    "playerText": "# Maurice Maeterlinck\n\n## Overview\n\nMaurice Maeterlinck is described as a legitimate, established playwright with many art-scene contacts.\n\n## Appears In\n\n- [[Ariel Fontaine]] - Date uncertain\n\n## Relationships\n\n- Art scene contacts - not individually named.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- None named.\n\n## Notes\n\n- Ariel's source frames him as part of an older, famous artistic crowd rather than the up-and-coming circle of the player characters.",
+    "text": "# Maurice Maeterlinck\n\n## Overview\n\nMaurice Maeterlinck is described as a legitimate, established playwright with many art-scene contacts.\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n\n## Relationships\n\n- Art scene contacts - not individually named.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- None named.\n\n## Notes\n\n- Ariel's source frames him as part of an older, famous artistic crowd rather than the up-and-coming circle of the player characters.",
+    "playerText": "# Maurice Maeterlinck\n\n## Overview\n\nMaurice Maeterlinck is described as a legitimate, established playwright with many art-scene contacts.\n\n## Appears In\n\n- [[Ariel Fontaine]] - 2021-06-28 (inferred)\n\n## Relationships\n\n- Art scene contacts - not individually named.\n\n## Associated Locations\n\n- [[Paris]]\n\n## Associated Documents\n\n- None named.\n\n## Notes\n\n- Ariel's source frames him as part of an older, famous artistic crowd rather than the up-and-coming circle of the player characters.",
     "links": [
       "Ariel Fontaine",
       "Paris"
