@@ -17,6 +17,8 @@ categories:
     label: Lore
   - id: game
     label: Games
+  - id: clue_mythos
+    label: Clue/Mythos
 visibility:
   default: gm
 approvals:
