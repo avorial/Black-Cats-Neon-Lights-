@@ -21,8 +21,8 @@ Le Soleil d'Or is a cafe/bar where occultists, artists, debt predators, and comm
 
 ## Appears In
 
-- [[Newland Van Der Lynden]] - Date uncertain
-- [[From the Sun Comes Shadows]] - Date uncertain
+- [[Newland Van Der Lynden]] - 2021-08-09 (inferred)
+- [[From the Sun Comes Shadows]] - 2021-08-09 (inferred)
 
 ## Connected NPCs
 
