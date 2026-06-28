@@ -6,12 +6,12 @@ summary: ""
 tags:
   - npc
 visibility: gm
-approvalStatus: unapproved
+approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases:
   - Philippe Du Pol
-lastEditedBy: AI via MCP
+lastEditedBy: patricthomas via GM review
 ---
 
 # Phillip Du Pol
