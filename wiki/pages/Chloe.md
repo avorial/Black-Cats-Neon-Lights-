@@ -17,11 +17,11 @@ lastEditedBy: AI via MCP
 
 ## Overview
 
-Chloe, spelled Cloe in parts of the source, is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].
+Chloe is associated with [[Burk Vinet]], cult rituals, and knowledge about [[Albert de Rochas]], [[The Master]], and the [[Golden Water Lily]].
 
 ## Appears In
 
-- [[Newland Van Der Lynden]] - Date uncertain
+- [[Newland Van Der Lynden]] - 2021-08-09 (inferred)
 - [[Newland Van Der Lynden]] - 2021-10-25
 
 ## Relationships
@@ -40,4 +40,4 @@ Chloe, spelled Cloe in parts of the source, is associated with [[Burk Vinet]], c
 
 ## Notes
 
-- The source alternates between Chloe and Cloe; this page uses Chloe as the normalized name.
+- Canonical archive name: Chloe.
