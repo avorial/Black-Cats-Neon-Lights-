@@ -10,10 +10,12 @@ approvalStatus: approved
 knownToPlayers: false
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via GM review
+lastEditedBy: patricthomas
 ---
 
 # Albert de Rochas
+
+![Albert de Rochas.jpg](/wiki/media/Albert de Rochas.jpg)
 
 ## Overview
 
