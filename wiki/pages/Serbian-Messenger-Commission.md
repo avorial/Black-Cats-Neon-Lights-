@@ -21,8 +21,8 @@ An odd commission delivered to [[Lucien Valadin]] by a Serbian-looking messenger
 
 ## Appears In
 
-- [[From the Sun Comes Shadows]] - Date uncertain
-- [[Fontaine Investigation Photograph]] - possible connection through another Serbian-man image, uncertain
+- [[From the Sun Comes Shadows]] - 2021-08-09 (inferred)
+- [[Fontaine Investigation Photograph]] - possible connection through another Serbian-man image, inferred 2021-06-28 but uncertain
 
 ## Connected NPCs
 
