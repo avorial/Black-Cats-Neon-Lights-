@@ -21,11 +21,13 @@ Maribel Fontaine is a missing young woman whose case connects to Ariel's investi
 
 ## Appears In
 
-- [[Ariel Fontaine]] - Date uncertain
+- [[Ariel Fontaine]] - 2021-06-28 (inferred)
+- [[The Medical Case of Maribel Fontaine]] - 2021-06-28 (inferred)
 
 ## Relationships
 
 - Maribel's father - unnamed in the source; a Paris bureaucrat dealing with public works of the sewers.
+- [[Doctor Sasha Kersiki]] - operated on her at [[Hotel-Dieu]].
 
 ## Associated Locations
 
