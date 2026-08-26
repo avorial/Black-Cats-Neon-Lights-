@@ -2009,7 +2009,7 @@
     },
     {
       "id": "location-Paris-Districts-Map",
-      "title": "Paris Districts Map",
+      "title": "Guide to the Arrondissements",
       "path": "wiki/pages/Paris-Districts-Map.md",
       "type": "location",
       "tags": [
@@ -2020,19 +2020,25 @@
         "world-anvil"
       ],
       "links": [
+        "location-Palais-Garnier",
+        "location-Palais-Garnier",
         "location-Paris",
         "game-Rex-Flavus-World-Anvil",
-        "game-Session-001-Ghost-of-the-Garnier"
+        "game-Session-001-Ghost-of-the-Garnier",
+        "location-Palais-Garnier"
       ],
       "aliases": [
-        "Paris Districts"
+        "Paris Districts",
+        "Paris Districts Map",
+        "Guide to the Arrondissements"
       ],
-      "summary": "Large imported Rex Flavus map of Paris districts for the Yellow King chronicle.",
+      "summary": "Rex Flavus guide to the Paris arrondissements, with Yellow King investigation hooks by district.",
       "visibility": "gm",
       "approvalStatus": "approved",
       "keyLinks": [
         "[[Paris]]",
-        "[[Rex Flavus World Anvil]]"
+        "[[Rex Flavus World Anvil]]",
+        "[[Palais Garnier]]"
       ]
     },
     {
@@ -2381,7 +2387,7 @@
         "location-Cabaret-du-Nant",
         "location-Le-Veau-Gras",
         "location-Museum",
-        "location-Palais-Garnier",
+        "location-Opera-House",
         "item-Mysterious-Note",
         "item-Rex-Flavus-Poster",
         "item-Rex-Flavus-Poem",

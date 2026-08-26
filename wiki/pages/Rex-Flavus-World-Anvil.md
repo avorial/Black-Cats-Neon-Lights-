@@ -27,7 +27,7 @@ sourceUrl: "https://www.worldanvil.com/w/rex-flavus-athor333"
 
 ## Overview
 
-Rex Flavus is the public World Anvil source for the Yellow King material tied into [[Campaign]]. Direct script access to World Anvil is Cloudflare-blocked, so this import records the reliable material available from the campaign repository's existing World Anvil media cache and the public Rex Flavus URL rather than inventing biographies.
+Rex Flavus is the public World Anvil source for the Yellow King material tied into [[Campaign]]. The import records material confirmed from the public World Anvil pages and the campaign repository's existing World Anvil media cache.
 
 ## Source
 
@@ -37,7 +37,7 @@ Rex Flavus is the public World Anvil source for the Yellow King material tied in
 
 ## Imported Core Pages
 
-- [[Paris Districts Map]]
+- [[Paris Districts Map]] / Guide to the Arrondissements
 - [[Session 001 - Ghost of the Garnier]]
 - [[Celeste Vicaire]]
 - [[Gaston Leroux]]
@@ -55,7 +55,7 @@ Rex Flavus is the public World Anvil source for the Yellow King material tied in
 
 ## Cast and Media Index
 
-These entries are backed by existing imported media assets. Pages with only image-backed information should be treated as stubs until a World Anvil export or browser-readable article text is available.
+These entries are backed by existing imported media assets. Pages with only image-backed information should be treated as stubs until a World Anvil export or article text is available.
 
 ### Protagonists
 
@@ -124,4 +124,4 @@ These entries are backed by existing imported media assets. Pages with only imag
 
 ## Import Limits
 
-This page is an index and audit marker. It does not claim to reproduce all World Anvil article prose. If an export of Rex Flavus becomes available, replace these stubs with fuller summaries and preserve the source URL on each page.
+This page is an index and audit marker. It does not claim to reproduce all World Anvil article prose. If an export of Rex Flavus becomes available, replace the remaining stubs with fuller summaries and preserve the source URL on each page.
