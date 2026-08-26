@@ -15,9 +15,15 @@ lastEditedBy: patricthomas via bulk edit
 
 # Paris
 
+![Paris Districts Map](/wiki/media/Paris Districts.jpg)
+
 ## Overview
 
 Paris is the main city of the downtime archive, containing the Duke's residences, art school, salons, cafes, hospitals, and official cover-ups.
+
+## Maps
+
+- [[Paris Districts Map]]
 
 ## Appears In
 
@@ -36,3 +42,4 @@ Paris is the main city of the downtime archive, containing the Duke's residences
 ## Important Events
 
 - The archive repeatedly frames Paris as threatened by Carcosan intrusion, cult activity, and covered-up murders.
+- Rex Flavus adds [[Session 001 - Ghost of the Garnier]] and [[Palais Garnier]] to the Paris investigation frame.

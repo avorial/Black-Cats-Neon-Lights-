@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T13:17:11.361Z",
+  "generatedAt": "2026-08-26T03:06:01.935Z",
   "pages": [
     {
       "id": "location-21-Avenue-Montaigne",
@@ -45,6 +45,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Albert-Vanel",
+      "title": "Albert Vanel",
+      "path": "wiki/pages/Albert-Vanel.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Albert-de-Rochas",
       "title": "Albert de Rochas",
       "path": "wiki/pages/Albert-de-Rochas.md",
@@ -72,6 +93,27 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Alphonse-Nuard",
+      "title": "Alphonse Nuard",
+      "path": "wiki/pages/Alphonse-Nuard.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "character-Ariel-Fontaine",
@@ -112,30 +154,46 @@
       "keyLinks": []
     },
     {
-      "id": "npc-Burk-Vinet",
-      "title": "Burk Vinet",
-      "path": "wiki/pages/Burk-Vinet.md",
+      "id": "npc-Benjamin-Helmer",
+      "title": "Benjamin Helmer",
+      "path": "wiki/pages/Benjamin-Helmer.md",
       "type": "npc",
       "tags": [
-        "npc"
+        "rex-flavus",
+        "world-anvil"
       ],
       "links": [
-        "unresolved:newland-van-der-lynden",
-        "unresolved:newland-van-der-lynden",
-        "npc-Chloe",
-        "npc-The-Master",
-        "npc-Albert-de-Rochas",
-        "npc-The-Master",
-        "location-Etoile-Polaire-Apartments",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror"
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
       ],
       "aliases": [],
-      "summary": "",
-      "visibility": "players",
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "parent": "Staff"
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Bertie-Astor",
+      "title": "Bertie Astor",
+      "path": "wiki/pages/Bertie-Astor.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Burk-Vinet-Head-Butler",
@@ -152,8 +210,54 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "parent": "Staff"
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Burk-Vinet",
+      "title": "Burk Vinet",
+      "path": "wiki/pages/Burk-Vinet.md",
+      "type": "npc",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "unresolved:newland-van-der-lynden",
+        "unresolved:newland-van-der-lynden",
+        "npc-Chloe",
+        "npc-The-Master",
+        "npc-Albert-de-Rochas",
+        "npc-The-Master",
+        "location-Etoile-Polaire-Apartments",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-Cabaret-du-Nant",
+      "title": "Cabaret du Nant",
+      "path": "wiki/pages/Cabaret-du-Nant.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "location-Paris"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus location preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "game-Campaign",
@@ -170,18 +274,25 @@
         "unresolved:molly",
         "unresolved:newland-van-der-lynden",
         "character-Regina-Wentworth",
+        "game-Rex-Flavus-World-Anvil",
+        "location-Paris-Districts-Map",
         "event-Timeline",
         "item-The-King-in-Yellow-Performances",
         "item-Unidentified-Forces-by-Albert-de-Rochas",
         "item-From-the-Sun-Comes-Shadows",
         "item-The-Medical-Case-of-Maribel-Fontaine",
-        "clue-mythos-The-Red-Knight",
-        "clue-mythos-Carcosan-Absinthe",
-        "clue-mythos-Crystal-Shards-from-the-Ibroix",
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier",
+        "location-Paris-Districts-Map",
+        "character-Celeste-Vicaire",
+        "character-Gaston-Leroux",
+        "clue_mythos-The-Red-Knight",
+        "clue_mythos-Carcosan-Absinthe",
+        "clue_mythos-Crystal-Shards-from-the-Ibroix",
         "organization-Kaladi-Bedur",
         "organization-The-Ibroix",
         "organization-The-Warton-Players",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "npc-Rachel-Weissman",
         "npc-Chloe",
         "npc-Philippe-Du-Pol",
@@ -194,7 +305,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Carcosa",
+      "id": "clue_mythos-Carcosa",
       "title": "Carcosa",
       "path": "wiki/pages/Carcosa.md",
       "type": "clue_mythos",
@@ -210,7 +321,7 @@
         "npc-Michel-Gourand",
         "npc-Jean-Leon-Gerome",
         "npc-Albert-de-Rochas",
-        "clue-mythos-Golden-Mirror",
+        "clue_mythos-Golden-Mirror",
         "location-Corsica"
       ],
       "aliases": [],
@@ -220,7 +331,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Carcosan-Absinthe",
+      "id": "clue_mythos-Carcosan-Absinthe",
       "title": "Carcosan Absinthe",
       "path": "wiki/pages/Carcosan-Absinthe.md",
       "type": "clue_mythos",
@@ -233,8 +344,8 @@
         "unresolved:newland-van-der-lynden",
         "npc-Burk-Vinet",
         "npc-Chloe",
-        "clue-mythos-Golden-Mirror",
-        "clue-mythos-Carcosa"
+        "clue_mythos-Golden-Mirror",
+        "clue_mythos-Carcosa"
       ],
       "aliases": [],
       "summary": "",
@@ -243,7 +354,33 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Charos-and-Death-Light",
+      "id": "character-Celeste-Vicaire",
+      "title": "Celeste Vicaire",
+      "path": "wiki/pages/Celeste-Vicaire.md",
+      "type": "character",
+      "tags": [
+        "character",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Céleste Vicaire",
+        "Cleste Vicaire"
+      ],
+      "summary": "Rex Flavus protagonist imported from the public World Anvil material.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]",
+        "[[Session 001 - Ghost of the Garnier]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-Charos-and-Death-Light",
       "title": "Charos and Death Light",
       "path": "wiki/pages/Charos-and-Death-Light.md",
       "type": "clue_mythos",
@@ -293,15 +430,15 @@
         "npc-Burk-Vinet",
         "npc-Albert-de-Rochas",
         "npc-The-Master",
-        "clue-mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Water-Lily",
         "unresolved:newland-van-der-lynden",
         "unresolved:newland-van-der-lynden",
         "npc-Burk-Vinet",
         "npc-Albert-de-Rochas",
         "npc-The-Master",
         "location-Etoile-Polaire-Apartments",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror"
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror"
       ],
       "aliases": [],
       "summary": "",
@@ -322,8 +459,7 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "parent": "Staff"
+      "keyLinks": []
     },
     {
       "id": "location-Corsica",
@@ -335,7 +471,7 @@
       ],
       "links": [
         "unresolved:newland-van-der-lynden",
-        "clue-mythos-Carcosa"
+        "clue_mythos-Carcosa"
       ],
       "aliases": [],
       "summary": "",
@@ -344,7 +480,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Crystal-Lantern-Vision",
+      "id": "clue_mythos-Crystal-Lantern-Vision",
       "title": "Crystal Lantern Vision",
       "path": "wiki/pages/Crystal-Lantern-Vision.md",
       "type": "clue_mythos",
@@ -364,7 +500,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Crystal-Shards-from-the-Ibroix",
+      "id": "clue_mythos-Crystal-Shards-from-the-Ibroix",
       "title": "Crystal Shards from the Ibroix",
       "path": "wiki/pages/Crystal-Shards-from-the-Ibroix.md",
       "type": "clue_mythos",
@@ -512,7 +648,7 @@
         "location"
       ],
       "links": [
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "unresolved:newland-van-der-lynden",
         "unresolved:newland-van-der-lynden",
         "npc-Michel-Gourand",
@@ -548,6 +684,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Florence-Lepine",
+      "title": "Florence Lepine",
+      "path": "wiki/pages/Florence-Lepine.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "item-Fontaine-Investigation-Photograph",
       "title": "Fontaine Investigation Photograph",
       "path": "wiki/pages/Fontaine-Investigation-Photograph.md",
@@ -563,14 +720,35 @@
         "npc-Adele-Fontaine",
         "npc-Jean-Leon-Gerome",
         "npc-Mr-Fontaine",
-        "clue-mythos-The-Red-Knight",
-        "clue-mythos-Serbian-Messenger-Commission"
+        "clue_mythos-The-Red-Knight",
+        "clue_mythos-Serbian-Messenger-Commission"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Francesca-Beaufort",
+      "title": "Francesca Beaufort",
+      "path": "wiki/pages/Francesca-Beaufort.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "item-From-the-Sun-Comes-Shadows",
@@ -591,7 +769,7 @@
         "npc-Lucien-Valadin",
         "npc-Pauline",
         "npc-Lucien-Valadin",
-        "clue-mythos-Serbian-Messenger-Commission"
+        "clue_mythos-Serbian-Messenger-Commission"
       ],
       "aliases": [],
       "summary": "",
@@ -600,7 +778,72 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Gold-Room-Creature",
+      "id": "character-Gaston-Leroux",
+      "title": "Gaston Leroux",
+      "path": "wiki/pages/Gaston-Leroux.md",
+      "type": "character",
+      "tags": [
+        "character",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus protagonist imported from the public World Anvil material.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]",
+        "[[Session 001 - Ghost of the Garnier]]"
+      ]
+    },
+    {
+      "id": "npc-Georges-Saccard",
+      "title": "Georges Saccard",
+      "path": "wiki/pages/Georges-Saccard.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Georgette-Adenis",
+      "title": "Georgette Adenis",
+      "path": "wiki/pages/Georgette-Adenis.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-Gold-Room-Creature",
       "title": "Gold Room Creature",
       "path": "wiki/pages/Gold-Room-Creature.md",
       "type": "clue_mythos",
@@ -620,7 +863,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Golden-Mirror",
+      "id": "clue_mythos-Golden-Mirror",
       "title": "Golden Mirror",
       "path": "wiki/pages/Golden-Mirror.md",
       "type": "clue_mythos",
@@ -628,11 +871,11 @@
         "clue_mythos"
       ],
       "links": [
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "unresolved:newland-van-der-lynden",
         "npc-Burk-Vinet",
         "npc-Chloe",
-        "clue-mythos-Carcosa"
+        "clue_mythos-Carcosa"
       ],
       "aliases": [],
       "summary": "",
@@ -641,7 +884,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Golden-Water-Lily",
+      "id": "clue_mythos-Golden-Water-Lily",
       "title": "Golden Water Lily",
       "path": "wiki/pages/Golden-Water-Lily.md",
       "type": "clue_mythos",
@@ -702,6 +945,50 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Gustave-Vanel",
+      "title": "Gustave Vanel",
+      "path": "wiki/pages/Gustave-Vanel.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Helene-Monteacute",
+      "title": "Helene Monteacute",
+      "path": "wiki/pages/Helene-Monteacute.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Hlne Monteacute"
+      ],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "character-Herman-Wentworth",
       "title": "Herman Wentworth",
       "path": "wiki/pages/Herman-Wentworth.md",
@@ -714,7 +1001,7 @@
       "links": [
         "character-Ariel-Fontaine",
         "character-Ariel-Fontaine",
-        "clue-mythos-Prophetic-Cartoons"
+        "clue_mythos-Prophetic-Cartoons"
       ],
       "aliases": [],
       "summary": "Custom character sheet template.",
@@ -744,6 +1031,94 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Imogen-Jean-Paul",
+      "title": "Imogen Jean-Paul",
+      "path": "wiki/pages/Imogen-Jean-Paul.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Isidore-Cuvier",
+      "title": "Isidore Cuvier",
+      "path": "wiki/pages/Isidore-Cuvier.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Jacques-Picou",
+      "title": "Jacques Picou",
+      "path": "wiki/pages/Jacques-Picou.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Jacques Picou general manager"
+      ],
+      "summary": "Rex Flavus supporting cast member; media filename identifies him as a general manager.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Jay-Manu",
+      "title": "Jay Manu",
+      "path": "wiki/pages/Jay-Manu.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Jean-Leon-Gerome",
       "title": "Jean-Leon Gerome",
       "path": "wiki/pages/Jean-Leon-Gerome.md",
@@ -756,7 +1131,7 @@
         "unresolved:newland-van-der-lynden",
         "npc-Adele-Fontaine",
         "npc-Dulcinea-Fontaine",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "location-Ecole-des-Beaux-Arts",
         "item-The-King-in-Yellow-Performances",
         "item-Fontaine-Investigation-Photograph"
@@ -768,7 +1143,28 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Junk-in-the-Trunk-Runes",
+      "id": "npc-Joris-Karl-Huysmans",
+      "title": "Joris-Karl Huysmans",
+      "path": "wiki/pages/Joris-Karl-Huysmans.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-Junk-in-the-Trunk-Runes",
       "title": "Junk in the Trunk Runes",
       "path": "wiki/pages/Junk-in-the-Trunk-Runes.md",
       "type": "clue_mythos",
@@ -804,6 +1200,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Laurie-Rosedale",
+      "title": "Laurie Rosedale",
+      "path": "wiki/pages/Laurie-Rosedale.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "location-Le-Soleil-dOr",
       "title": "Le Soleil d'Or",
       "path": "wiki/pages/Le-Soleil-dOr.md",
@@ -824,6 +1241,51 @@
       "keyLinks": []
     },
     {
+      "id": "location-Le-Veau-Gras",
+      "title": "Le Veau Gras",
+      "path": "wiki/pages/Le-Veau-Gras.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "location-Paris"
+      ],
+      "aliases": [
+        "Le veau Gras"
+      ],
+      "summary": "Rex Flavus location preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Lou-Goulven",
+      "title": "Lou Goulven",
+      "path": "wiki/pages/Lou-Goulven.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Louis-Lepine",
       "title": "Louis Lepine",
       "path": "wiki/pages/Louis-Lepine.md",
@@ -837,13 +1299,34 @@
         "unresolved:newland-van-der-lynden",
         "npc-Sasha-Kersiki",
         "location-Paris",
-        "clue-mythos-Organ-Murders"
+        "clue_mythos-Organ-Murders"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Louis-Pasteur",
+      "title": "Louis Pasteur",
+      "path": "wiki/pages/Louis-Pasteur.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Louise-Weber",
@@ -887,6 +1370,70 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Luna-van-Siclen",
+      "title": "Luna van Siclen",
+      "path": "wiki/pages/Luna-van-Siclen.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Marcel-Brisson",
+      "title": "Marcel Brisson",
+      "path": "wiki/pages/Marcel-Brisson.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Marcel-Gavard",
+      "title": "Marcel Gavard",
+      "path": "wiki/pages/Marcel-Gavard.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Marcel-Proust",
       "title": "Marcel Proust",
       "path": "wiki/pages/Marcel-Proust.md",
@@ -900,7 +1447,26 @@
         "unresolved:newland-van-der-lynden",
         "npc-Michel-Gourand",
         "organization-The-Ibroix",
-        "clue-mythos-Carcosa"
+        "clue_mythos-Carcosa"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "clue_mythos-Maribel-Fontaine-Egg",
+      "title": "Maribel Fontaine Egg",
+      "path": "wiki/pages/Maribel-Fontaine-Egg.md",
+      "type": "clue_mythos",
+      "tags": [
+        "clue_mythos"
+      ],
+      "links": [
+        "item-The-Medical-Case-of-Maribel-Fontaine",
+        "npc-Maribel-Fontaine",
+        "npc-Sasha-Kersiki"
       ],
       "aliases": [],
       "summary": "",
@@ -932,23 +1498,67 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Maribel-Fontaine-Egg",
-      "title": "Maribel Fontaine Egg",
-      "path": "wiki/pages/Maribel-Fontaine-Egg.md",
-      "type": "clue_mythos",
+      "id": "npc-Marie-Curie",
+      "title": "Marie Curie",
+      "path": "wiki/pages/Marie-Curie.md",
+      "type": "npc",
       "tags": [
-        "clue_mythos"
+        "rex-flavus",
+        "world-anvil"
       ],
       "links": [
-        "item-The-Medical-Case-of-Maribel-Fontaine",
-        "npc-Maribel-Fontaine",
-        "npc-Sasha-Kersiki"
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
       ],
       "aliases": [],
-      "summary": "",
-      "visibility": "players",
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
       "approvalStatus": "approved",
-      "keyLinks": []
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Marthe-Sicardot",
+      "title": "Marthe Sicardot",
+      "path": "wiki/pages/Marthe-Sicardot.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Maurice-Koechlin",
+      "title": "Maurice Koechlin",
+      "path": "wiki/pages/Maurice-Koechlin.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Maurice-Maeterlinck",
@@ -982,18 +1592,18 @@
         "npc-Marcel-Proust",
         "npc-Michel-Gourand",
         "npc-Jean-Leon-Gerome",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "organization-The-Warton-Players",
         "npc-Marcel-Proust",
         "npc-Michel-Gourand",
         "npc-Marcel-Proust",
         "npc-Michel-Gourand",
-        "clue-mythos-Carcosa",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "npc-Michel-Gourand",
         "npc-Jean-Leon-Gerome",
         "organization-The-Warton-Players",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "npc-Jean-Leon-Gerome",
         "npc-Adele-Fontaine",
         "npc-Mr-Fontaine",
@@ -1001,7 +1611,7 @@
         "item-The-King-in-Yellow-Performances",
         "item-Fontaine-Investigation-Photograph",
         "item-The-King-in-Yellow-Performances",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "npc-Adele-Fontaine",
         "npc-Mr-Fontaine"
       ],
@@ -1024,13 +1634,35 @@
         "unresolved:newland-van-der-lynden",
         "npc-Marcel-Proust",
         "location-Etoile-Polaire-Apartments",
-        "clue-mythos-Carcosa"
+        "clue_mythos-Carcosa"
       ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Miette",
+      "title": "Miette",
+      "path": "wiki/pages/Miette.md",
+      "type": "npc",
+      "tags": [
+        "npc",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Mr-Fontaine",
@@ -1054,6 +1686,48 @@
       "keyLinks": []
     },
     {
+      "id": "location-Museum",
+      "title": "Museum",
+      "path": "wiki/pages/Museum.md",
+      "type": "location",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus location preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "item-Mysterious-Note",
+      "title": "Mysterious Note",
+      "path": "wiki/pages/Mysterious-Note.md",
+      "type": "item",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mysterious note clue preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "character-Newland-Ainsley-Van-der-Lyden",
       "title": "Newland Ainsley Van der Lyden",
       "path": "wiki/pages/Newland-Ainsley-Van-der-Lyden.md",
@@ -1064,20 +1738,20 @@
         "sheet"
       ],
       "links": [
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "organization-Kaladi-Bedur",
         "organization-The-Ibroix",
         "npc-Albert-de-Rochas",
         "npc-Marcel-Proust",
         "location-Corsica",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "organization-Kaladi-Bedur",
         "npc-Louise-Weber",
         "location-Villa-de-Rochas",
         "npc-Louise-Weber",
         "npc-Albert-de-Rochas",
         "location-Villa-de-Rochas",
-        "clue-mythos-Junk-in-the-Trunk-Runes",
+        "clue_mythos-Junk-in-the-Trunk-Runes",
         "npc-Louise-Weber",
         "organization-Kaladi-Bedur",
         "organization-Kaladi-Bedur",
@@ -1090,7 +1764,7 @@
         "location-Le-Soleil-dOr",
         "npc-Chloe",
         "location-Le-Soleil-dOr",
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "location-Etoile-Polaire-Apartments",
         "npc-Michel-Gourand",
         "npc-Dulcinea-Fontaine",
@@ -1110,20 +1784,20 @@
         "npc-Marcel-Proust",
         "npc-Albert-de-Rochas",
         "npc-The-Master",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror",
         "npc-Marcel-Proust",
         "npc-Albert-de-Rochas",
         "npc-The-Master",
         "npc-Burk-Vinet",
         "npc-Chloe",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "item-Unidentified-Forces-by-Albert-de-Rochas",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror",
-        "clue-mythos-Carcosa",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Crystal-Shards-from-the-Ibroix",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror",
+        "clue_mythos-Carcosa",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Crystal-Shards-from-the-Ibroix",
         "organization-Kaladi-Bedur",
         "npc-Sasha-Kersiki",
         "npc-Philippe-Du-Pol",
@@ -1139,7 +1813,7 @@
         "location-Grand-Hotel",
         "location-Ecole-des-Beaux-Arts",
         "location-Corsica",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "item-Unidentified-Forces-by-Albert-de-Rochas",
         "item-The-King-in-Yellow-Performances",
         "item-Sunrise-Order-King-in-Yellow-Version",
@@ -1157,6 +1831,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Nico-Trevanny",
+      "title": "Nico Trevanny",
+      "path": "wiki/pages/Nico-Trevanny.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-No-lle-de-Rozan-Scullery-Maid",
       "title": "Noëlle de Rozan (Scullery Maid)",
       "path": "wiki/pages/No-lle-de-Rozan-Scullery-Maid.md",
@@ -1169,8 +1864,30 @@
       "summary": "",
       "visibility": "players",
       "approvalStatus": "approved",
-      "keyLinks": [],
-      "parent": "Staff"
+      "keyLinks": []
+    },
+    {
+      "id": "location-Opera-House",
+      "title": "Opera House",
+      "path": "wiki/pages/Opera-House.md",
+      "type": "location",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Oprah House"
+      ],
+      "summary": "Alternate opera-house image preserved from the Rex Flavus media cache.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Orane-Du-Roudier",
@@ -1193,7 +1910,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Organ-Murders",
+      "id": "clue_mythos-Organ-Murders",
       "title": "Organ Murders",
       "path": "wiki/pages/Organ-Murders.md",
       "type": "clue_mythos",
@@ -1215,6 +1932,110 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Oscar-Metenier",
+      "title": "Oscar Metenier",
+      "path": "wiki/pages/Oscar-Metenier.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Oscar M?t?nier",
+        "Oscar Mtnier"
+      ],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Oscar-Sanderson",
+      "title": "Oscar Sanderson",
+      "path": "wiki/pages/Oscar-Sanderson.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "location-Palais-Garnier",
+      "title": "Palais Garnier",
+      "path": "wiki/pages/Palais-Garnier.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "paris",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Session-001-Ghost-of-the-Garnier",
+        "location-Paris",
+        "location-Paris-Districts-Map",
+        "game-Session-001-Ghost-of-the-Garnier",
+        "game-Rex-Flavus-World-Anvil"
+      ],
+      "aliases": [
+        "Opera House",
+        "Oprah House"
+      ],
+      "summary": "Paris opera house and key Rex Flavus opening location.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Paris]]",
+        "[[Session 001 - Ghost of the Garnier]]",
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "location-Paris-Districts-Map",
+      "title": "Paris Districts Map",
+      "path": "wiki/pages/Paris-Districts-Map.md",
+      "type": "location",
+      "tags": [
+        "location",
+        "map",
+        "paris",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "location-Paris",
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Paris Districts"
+      ],
+      "summary": "Large imported Rex Flavus map of Paris districts for the Yellow King chronicle.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Paris]]",
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "location-Paris",
       "title": "Paris",
       "path": "wiki/pages/Paris.md",
@@ -1223,6 +2044,7 @@
         "location"
       ],
       "links": [
+        "location-Paris-Districts-Map",
         "character-Ariel-Fontaine",
         "character-Ariel-Fontaine",
         "character-Regina-Wentworth",
@@ -1230,7 +2052,9 @@
         "npc-Duc-de-Roudier",
         "npc-Louis-Lepine",
         "npc-Maribel-Fontaine",
-        "npc-Albert-de-Rochas"
+        "npc-Albert-de-Rochas",
+        "game-Session-001-Ghost-of-the-Garnier",
+        "location-Palais-Garnier"
       ],
       "aliases": [],
       "summary": "",
@@ -1280,6 +2104,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Philibert-Wooster",
+      "title": "Philibert Wooster",
+      "path": "wiki/pages/Philibert-Wooster.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Philippe-Du-Pol",
       "title": "Phillip Du Pol",
       "path": "wiki/pages/Philippe-Du-Pol.md",
@@ -1304,7 +2149,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Prophetic-Cartoons",
+      "id": "clue_mythos-Prophetic-Cartoons",
       "title": "Prophetic Cartoons",
       "path": "wiki/pages/Prophetic-Cartoons.md",
       "type": "clue_mythos",
@@ -1320,6 +2165,27 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Pyotr-Rachkovsky",
+      "title": "Pyotr Rachkovsky",
+      "path": "wiki/pages/Pyotr-Rachkovsky.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Rachel-Weissman",
@@ -1350,6 +2216,27 @@
       "keyLinks": []
     },
     {
+      "id": "npc-Rajid-Patel",
+      "title": "Rajid Patel",
+      "path": "wiki/pages/Rajid-Patel.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "character-Regina-Wentworth",
       "title": "Regina Wentworth",
       "path": "wiki/pages/Regina-Wentworth.md",
@@ -1375,6 +2262,170 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "item-Rex-Flavus-Poem",
+      "title": "Rex Flavus Poem",
+      "path": "wiki/pages/Rex-Flavus-Poem.md",
+      "type": "item",
+      "tags": [
+        "item",
+        "clue",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "item-The-King-in-Yellow-Performances"
+      ],
+      "aliases": [
+        "Poem"
+      ],
+      "summary": "Poem image imported with the Rex Flavus World Anvil media cache.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "item-Rex-Flavus-Poster",
+      "title": "Rex Flavus Poster",
+      "path": "wiki/pages/Rex-Flavus-Poster.md",
+      "type": "item",
+      "tags": [
+        "item",
+        "clue",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "item-The-King-in-Yellow-Performances"
+      ],
+      "aliases": [
+        "Poster"
+      ],
+      "summary": "Poster image imported with the Rex Flavus World Anvil media cache.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "game-Rex-Flavus-World-Anvil",
+      "title": "Rex Flavus World Anvil",
+      "path": "wiki/pages/Rex-Flavus-World-Anvil.md",
+      "type": "game",
+      "tags": [
+        "game",
+        "rex-flavus",
+        "world-anvil",
+        "yellow-king"
+      ],
+      "links": [
+        "game-Campaign",
+        "location-Paris-Districts-Map",
+        "game-Session-001-Ghost-of-the-Garnier",
+        "character-Celeste-Vicaire",
+        "character-Gaston-Leroux",
+        "game-Campaign",
+        "location-Paris",
+        "item-The-King-in-Yellow-Performances",
+        "clue_mythos-Carcosa",
+        "clue_mythos-The-Red-Knight",
+        "organization-The-Ibroix",
+        "organization-The-Warton-Players",
+        "clue_mythos-Carcosan-Absinthe",
+        "character-Celeste-Vicaire",
+        "character-Gaston-Leroux",
+        "npc-Albert-Vanel",
+        "npc-Alphonse-Nuard",
+        "npc-Benjamin-Helmer",
+        "npc-Bertie-Astor",
+        "npc-Florence-Lepine",
+        "npc-Francesca-Beaufort",
+        "npc-Georges-Saccard",
+        "npc-Georgette-Adenis",
+        "npc-Gustave-Vanel",
+        "npc-Helene-Monteacute",
+        "npc-Imogen-Jean-Paul",
+        "npc-Isidore-Cuvier",
+        "npc-Jacques-Picou",
+        "npc-Jay-Manu",
+        "npc-Joris-Karl-Huysmans",
+        "npc-Laurie-Rosedale",
+        "npc-Lou-Goulven",
+        "npc-Louis-Pasteur",
+        "npc-Luna-van-Siclen",
+        "npc-Marcel-Brisson",
+        "npc-Marcel-Gavard",
+        "npc-Marie-Curie",
+        "npc-Marthe-Sicardot",
+        "npc-Maurice-Koechlin",
+        "npc-Miette",
+        "npc-Nico-Trevanny",
+        "npc-Oscar-Metenier",
+        "npc-Oscar-Sanderson",
+        "npc-Philibert-Wooster",
+        "npc-Pyotr-Rachkovsky",
+        "npc-Rajid-Patel",
+        "npc-Rose-Godfrey",
+        "npc-Sidney-Reilly",
+        "npc-Sophie-Sanderson-Fountaine",
+        "npc-Tah-tah-kle-ah",
+        "npc-Xavier-Lassouche",
+        "location-Paris-Districts-Map",
+        "location-Palais-Garnier",
+        "location-Cabaret-du-Nant",
+        "location-Le-Veau-Gras",
+        "location-Museum",
+        "location-Palais-Garnier",
+        "item-Mysterious-Note",
+        "item-Rex-Flavus-Poster",
+        "item-Rex-Flavus-Poem",
+        "clue_mythos-The-Yellow-King-Image",
+        "clue_mythos-The-Men",
+        "clue_mythos-The-Player",
+        "clue_mythos-The-Shepherds",
+        "clue_mythos-The-Tower",
+        "clue_mythos-The-Walkers"
+      ],
+      "aliases": [
+        "Rex Flavus"
+      ],
+      "summary": "Import hub for the public Rex Flavus World Anvil material connected to the Yellow King chronicle.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Campaign]]",
+        "[[Paris Districts Map]]",
+        "[[Session 001 - Ghost of the Garnier]]",
+        "[[Celeste Vicaire]]",
+        "[[Gaston Leroux]]"
+      ]
+    },
+    {
+      "id": "npc-Rose-Godfrey",
+      "title": "Rose Godfrey",
+      "path": "wiki/pages/Rose-Godfrey.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "npc-Sasha-Kersiki",
@@ -1409,7 +2460,7 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-Serbian-Messenger-Commission",
+      "id": "clue_mythos-Serbian-Messenger-Commission",
       "title": "Serbian Messenger Commission",
       "path": "wiki/pages/Serbian-Messenger-Commission.md",
       "type": "clue_mythos",
@@ -1431,6 +2482,84 @@
       "keyLinks": []
     },
     {
+      "id": "game-Session-001-Ghost-of-the-Garnier",
+      "title": "Session 001 - Ghost of the Garnier",
+      "path": "wiki/pages/Session-001-Ghost-of-the-Garnier.md",
+      "type": "game",
+      "tags": [
+        "game",
+        "session",
+        "rex-flavus",
+        "world-anvil",
+        "palais-garnier"
+      ],
+      "links": [
+        "location-Palais-Garnier",
+        "character-Celeste-Vicaire",
+        "character-Gaston-Leroux",
+        "location-Palais-Garnier",
+        "location-Paris",
+        "location-Paris-Districts-Map",
+        "item-The-King-in-Yellow-Performances"
+      ],
+      "aliases": [
+        "Ghost of the Garnier",
+        "Session 01 - Ghost of the Garnier"
+      ],
+      "summary": "First Rex Flavus session scaffold from the public World Anvil campaign, centered on the Palais Garnier.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]",
+        "[[Palais Garnier]]",
+        "[[Paris Districts Map]]",
+        "[[Celeste Vicaire]]",
+        "[[Gaston Leroux]]"
+      ]
+    },
+    {
+      "id": "npc-Sidney-Reilly",
+      "title": "Sidney Reilly",
+      "path": "wiki/pages/Sidney-Reilly.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "npc-Sophie-Sanderson-Fountaine",
+      "title": "Sophie Sanderson-Fountaine",
+      "path": "wiki/pages/Sophie-Sanderson-Fountaine.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
       "id": "npc-Staff",
       "title": "Staff",
       "path": "wiki/pages/Staff.md",
@@ -1439,26 +2568,6 @@
         "npc"
       ],
       "links": [],
-      "aliases": [],
-      "summary": "",
-      "visibility": "players",
-      "approvalStatus": "approved",
-      "keyLinks": []
-    },
-    {
-      "id": "organization-Sunrise-Order",
-      "title": "Sunrise Order",
-      "path": "wiki/pages/Sunrise-Order.md",
-      "type": "organization",
-      "tags": [
-        "organization"
-      ],
-      "links": [
-        "unresolved:newland-van-der-lynden",
-        "npc-Greek-Orthodox-Monk",
-        "npc-Philippe-Du-Pol",
-        "item-Sunrise-Order-King-in-Yellow-Version"
-      ],
       "aliases": [],
       "summary": "",
       "visibility": "players",
@@ -1489,7 +2598,48 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-The-7-Lines-of-the-Fountaine-Family",
+      "id": "organization-Sunrise-Order",
+      "title": "Sunrise Order",
+      "path": "wiki/pages/Sunrise-Order.md",
+      "type": "organization",
+      "tags": [
+        "organization"
+      ],
+      "links": [
+        "unresolved:newland-van-der-lynden",
+        "npc-Greek-Orthodox-Monk",
+        "npc-Philippe-Du-Pol",
+        "item-Sunrise-Order-King-in-Yellow-Version"
+      ],
+      "aliases": [],
+      "summary": "",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "npc-Tah-tah-kle-ah",
+      "title": "Tah-tah-kle-ah",
+      "path": "wiki/pages/Tah-tah-kle-ah.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Rex Flavus supporting cast member preserved from imported World Anvil media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-The-7-Lines-of-the-Fountaine-Family",
       "title": "The 7 Lines of the Fountaine Family",
       "path": "wiki/pages/The-7-Lines-of-the-Fountaine-Family.md",
       "type": "clue_mythos",
@@ -1525,7 +2675,7 @@
         "npc-Rachel-Weissman",
         "npc-Marcel-Proust",
         "location-Paris",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "item-Unidentified-Forces-by-Albert-de-Rochas"
       ],
       "aliases": [],
@@ -1552,7 +2702,7 @@
         "npc-Philippe-Du-Pol",
         "npc-Jean-Leon-Gerome",
         "npc-Duc-de-Roudier",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "item-Sunrise-Order-King-in-Yellow-Version"
       ],
       "aliases": [],
@@ -1581,7 +2731,7 @@
         "npc-Burk-Vinet",
         "npc-Michel-Gourand",
         "location-Etoile-Polaire-Apartments",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "npc-Marcel-Proust"
       ],
       "aliases": [],
@@ -1607,8 +2757,8 @@
         "location-Hotel-Dieu",
         "npc-Maribel-Fontaine",
         "npc-Sasha-Kersiki",
-        "clue-mythos-Organ-Murders",
-        "clue-mythos-Maribel-Fontaine-Egg"
+        "clue_mythos-Organ-Murders",
+        "clue_mythos-Maribel-Fontaine-Egg"
       ],
       "aliases": [],
       "summary": "",
@@ -1617,7 +2767,49 @@
       "keyLinks": []
     },
     {
-      "id": "clue-mythos-The-Red-Knight",
+      "id": "clue_mythos-The-Men",
+      "title": "The Men",
+      "path": "wiki/pages/The-Men.md",
+      "type": "clue_mythos",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mythos image preserved from imported Rex Flavus media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-The-Player",
+      "title": "The Player",
+      "path": "wiki/pages/The-Player.md",
+      "type": "clue_mythos",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mythos image preserved from imported Rex Flavus media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-The-Red-Knight",
       "title": "The Red Knight",
       "path": "wiki/pages/The-Red-Knight.md",
       "type": "clue_mythos",
@@ -1640,6 +2832,69 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "clue_mythos-The-Shepherds",
+      "title": "The Shepherds",
+      "path": "wiki/pages/The-Shepherds.md",
+      "type": "clue_mythos",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mythos image preserved from imported Rex Flavus media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-The-Tower",
+      "title": "The Tower",
+      "path": "wiki/pages/The-Tower.md",
+      "type": "clue_mythos",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mythos image preserved from imported Rex Flavus media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
+    },
+    {
+      "id": "clue_mythos-The-Walkers",
+      "title": "The Walkers",
+      "path": "wiki/pages/The-Walkers.md",
+      "type": "clue_mythos",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [],
+      "summary": "Mythos image preserved from imported Rex Flavus media.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     },
     {
       "id": "organization-The-Warton-Players",
@@ -1668,6 +2923,34 @@
       "keyLinks": []
     },
     {
+      "id": "clue_mythos-The-Yellow-King-Image",
+      "title": "The Yellow King Image",
+      "path": "wiki/pages/The-Yellow-King-Image.md",
+      "type": "clue_mythos",
+      "tags": [
+        "clue",
+        "mythos",
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "item-The-King-in-Yellow-Performances",
+        "clue_mythos-Carcosa"
+      ],
+      "aliases": [
+        "The Yellow King"
+      ],
+      "summary": "Yellow King image imported with the Rex Flavus World Anvil media cache.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]",
+        "[[The King in Yellow (Performances)]]",
+        "[[Carcosa]]"
+      ]
+    },
+    {
       "id": "event-Timeline",
       "title": "Timeline",
       "path": "wiki/pages/Timeline.md",
@@ -1690,8 +2973,8 @@
         "npc-Louis-Lepine",
         "npc-Maurice-Maeterlinck",
         "item-Fontaine-Investigation-Photograph",
-        "clue-mythos-Organ-Murders",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-Organ-Murders",
+        "clue_mythos-The-Red-Knight",
         "character-Regina-Wentworth",
         "npc-Duc-de-Roudier",
         "location-Ecole-des-Beaux-Arts",
@@ -1706,8 +2989,8 @@
         "npc-Louise-Weber",
         "npc-Albert-de-Rochas",
         "location-Villa-de-Rochas",
-        "clue-mythos-Junk-in-the-Trunk-Runes",
-        "clue-mythos-Gold-Room-Creature",
+        "clue_mythos-Junk-in-the-Trunk-Runes",
+        "clue_mythos-Gold-Room-Creature",
         "organization-Kaladi-Bedur",
         "unresolved:newland-van-der-lynden",
         "location-Le-Soleil-dOr",
@@ -1716,7 +2999,7 @@
         "npc-Chloe",
         "location-Le-Soleil-dOr",
         "unresolved:newland-van-der-lynden",
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "location-Etoile-Polaire-Apartments",
         "npc-Michel-Gourand",
         "npc-Dulcinea-Fontaine",
@@ -1737,40 +3020,40 @@
         "npc-Michel-Gourand",
         "npc-Marcel-Proust",
         "npc-Michel-Gourand",
-        "clue-mythos-Carcosa",
-        "clue-mythos-Carcosa",
+        "clue_mythos-Carcosa",
+        "clue_mythos-Carcosa",
         "unresolved:herman",
-        "clue-mythos-Prophetic-Cartoons",
-        "clue-mythos-Crystal-Lantern-Vision",
+        "clue_mythos-Prophetic-Cartoons",
+        "clue_mythos-Crystal-Lantern-Vision",
         "unresolved:molly",
         "npc-Jean-Leon-Gerome",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "organization-The-Warton-Players",
         "npc-Jean-Leon-Gerome",
         "npc-Adele-Fontaine",
         "npc-Mr-Fontaine",
         "character-Dorian-Van-Der-lynden",
         "item-The-King-in-Yellow-Performances",
-        "clue-mythos-The-Red-Knight",
+        "clue_mythos-The-Red-Knight",
         "unresolved:newland-van-der-lynden",
         "npc-Marcel-Proust",
         "npc-Albert-de-Rochas",
         "npc-The-Master",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror",
         "npc-Marcel-Proust",
         "npc-Albert-de-Rochas",
         "npc-Burk-Vinet",
         "npc-Chloe",
         "npc-The-Master",
-        "clue-mythos-Carcosa",
-        "clue-mythos-Golden-Water-Lily",
-        "clue-mythos-Golden-Mirror",
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosa",
+        "clue_mythos-Golden-Water-Lily",
+        "clue_mythos-Golden-Mirror",
+        "clue_mythos-Carcosan-Absinthe",
         "unresolved:newland-van-der-lynden",
-        "clue-mythos-Crystal-Shards-from-the-Ibroix",
+        "clue_mythos-Crystal-Shards-from-the-Ibroix",
         "item-Unidentified-Forces-by-Albert-de-Rochas",
-        "clue-mythos-Carcosan-Absinthe",
+        "clue_mythos-Carcosan-Absinthe",
         "organization-Kaladi-Bedur",
         "npc-Sasha-Kersiki",
         "npc-Philippe-Du-Pol",
@@ -1785,8 +3068,8 @@
         "location-Grand-Hotel",
         "location-Ecole-des-Beaux-Arts",
         "location-Corsica",
-        "clue-mythos-Carcosa",
-        "clue-mythos-Crystal-Shards-from-the-Ibroix",
+        "clue_mythos-Carcosa",
+        "clue_mythos-Crystal-Shards-from-the-Ibroix",
         "item-Unidentified-Forces-by-Albert-de-Rochas",
         "item-The-King-in-Yellow-Performances",
         "item-Sunrise-Order-King-in-Yellow-Version"
@@ -1813,8 +3096,8 @@
         "unresolved:newland-van-der-lynden",
         "npc-Albert-de-Rochas",
         "npc-Rachel-Weissman",
-        "clue-mythos-Crystal-Shards-from-the-Ibroix",
-        "clue-mythos-Charos-and-Death-Light"
+        "clue_mythos-Crystal-Shards-from-the-Ibroix",
+        "clue_mythos-Charos-and-Death-Light"
       ],
       "aliases": [],
       "summary": "",
@@ -1861,6 +3144,29 @@
       "visibility": "players",
       "approvalStatus": "approved",
       "keyLinks": []
+    },
+    {
+      "id": "npc-Xavier-Lassouche",
+      "title": "Xavier Lassouche",
+      "path": "wiki/pages/Xavier-Lassouche.md",
+      "type": "npc",
+      "tags": [
+        "rex-flavus",
+        "world-anvil"
+      ],
+      "links": [
+        "game-Rex-Flavus-World-Anvil",
+        "game-Session-001-Ghost-of-the-Garnier"
+      ],
+      "aliases": [
+        "Xavier Lassouche THE SET PAINTER"
+      ],
+      "summary": "Rex Flavus supporting cast member; media filename identifies him as the set painter.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": [
+        "[[Rex Flavus World Anvil]]"
+      ]
     }
   ]
 }

@@ -36,11 +36,21 @@ King in Yellow downtime archive for the Black Cats & Neon Lights chronicle. This
 
 ## Core References
 
+- [[Rex Flavus World Anvil]]
+- [[Paris Districts Map]]
 - [[Timeline]]
 - [[The King in Yellow (Performances)]]
 - [[Unidentified Forces by Albert de Rochas]]
 - [[From the Sun Comes Shadows]]
 - [[The Medical Case of Maribel Fontaine]]
+
+## World Anvil Import
+
+- [[Rex Flavus World Anvil]] - import hub for the public Rex Flavus World Anvil material
+- [[Session 001 - Ghost of the Garnier]]
+- [[Paris Districts Map]]
+- [[Celeste Vicaire]]
+- [[Gaston Leroux]]
 
 ## Major Threads
 

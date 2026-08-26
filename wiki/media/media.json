@@ -46,5 +46,73 @@
   },
   "wiki/media/upload_test.txt": {
     "alt": "upload test"
+  },
+  "wiki/media/Paris Districts.jpg": {
+    "alt": "Paris districts map",
+    "caption": "Large Rex Flavus map of Paris districts.",
+    "tags": [
+      "map",
+      "paris",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/Cleste Vicaire.jpg": {
+    "alt": "Celeste Vicaire",
+    "caption": "Rex Flavus protagonist portrait.",
+    "tags": [
+      "character",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/Gaston Leroux.jpg": {
+    "alt": "Gaston Leroux",
+    "caption": "Rex Flavus protagonist portrait.",
+    "tags": [
+      "character",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/Palais Garnier.jpg": {
+    "alt": "Palais Garnier",
+    "caption": "Opera house image tied to Session 001 - Ghost of the Garnier.",
+    "tags": [
+      "location",
+      "paris",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/Poster.jpg": {
+    "alt": "Rex Flavus poster",
+    "caption": "Poster image from the Rex Flavus media cache.",
+    "tags": [
+      "item",
+      "clue",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/Poem.png": {
+    "alt": "Rex Flavus poem",
+    "caption": "Poem image from the Rex Flavus media cache.",
+    "tags": [
+      "item",
+      "clue",
+      "rex-flavus",
+      "world-anvil"
+    ]
+  },
+  "wiki/media/The Yellow King.jpg": {
+    "alt": "The Yellow King",
+    "caption": "Yellow King image from the Rex Flavus media cache.",
+    "tags": [
+      "clue",
+      "mythos",
+      "rex-flavus",
+      "world-anvil"
+    ]
   }
 }
